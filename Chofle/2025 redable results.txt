@@ -1,0 +1,3556 @@
+Elections in Chofle:
+ With 4 parties, 50 electoral districts, 8 ideologies and 50 seats.
+
+
+Results for HotC_blocks_2025_303 in Electoral District 1 are:
+A total of 1004 voters participated.
+A total of 1086 were elegible out of a population of 1378.
+The participation rate was 92.45%.
+Progressive Party obtained 479 votes.
+Woke Party obtained 519 votes.
+Blank votes obtained 2 votes.
+Null votes obtained 4 votes.
+
+
+Results for HotC_blocks_2025_313 in Electoral District 1 are:
+A total of 1065 voters participated.
+A total of 1112 were elegible out of a population of 1442.
+The participation rate was 95.77%.
+Progressive Party obtained 710 votes.
+Woke Party obtained 353 votes.
+Blank votes obtained 1 votes.
+Null votes obtained 1 votes.
+
+
+Results for HotC_blocks_2025_314 in Electoral District 1 are:
+A total of 842 voters participated.
+A total of 908 were elegible out of a population of 1166.
+The participation rate was 92.73%.
+Progressive Party obtained 534 votes.
+Woke Party obtained 306 votes.
+Blank votes obtained 1 votes.
+Null votes obtained 1 votes.
+
+
+Results for HotC_blocks_2025_315 in Electoral District 1 are:
+A total of 982 voters participated.
+A total of 1081 were elegible out of a population of 1439.
+The participation rate was 90.84%.
+Progressive Party obtained 442 votes.
+Woke Party obtained 536 votes.
+Blank votes obtained 3 votes.
+Null votes obtained 1 votes.
+
+
+Results for HotC_blocks_2025_316 in Electoral District 1 are:
+A total of 1012 voters participated.
+A total of 1075 were elegible out of a population of 1475.
+The participation rate was 94.14%.
+Progressive Party obtained 404 votes.
+Woke Party obtained 604 votes.
+Blank votes obtained 1 votes.
+Null votes obtained 3 votes.
+
+
+Results for HotC_blocks_2025_317 in Electoral District 1 are:
+A total of 745 voters participated.
+A total of 820 were elegible out of a population of 1042.
+The participation rate was 90.85%.
+Progressive Party obtained 426 votes.
+Woke Party obtained 316 votes.
+Null votes obtained 3 votes.
+
+
+Results for Electoral District 1 are:
+A total of 5650 voters participated.
+A total of 6082 were elegible out of a population of 7942.
+The participation rate was 92.90%.
+Progressive Party obtained 2995 votes and 1 seats.
+Woke Party obtained 2634 votes and 0 seats.
+Blank votes obtained 8 votes.
+Null votes obtained 13 votes.
+
+
+Results for HotC_blocks_2025_199 in Electoral District 2 are:
+A total of 896 voters participated.
+A total of 942 were elegible out of a population of 1243.
+The participation rate was 95.12%.
+Progressive Party obtained 412 votes.
+Woke Party obtained 481 votes.
+Blank votes obtained 2 votes.
+Null votes obtained 1 votes.
+
+
+Results for HotC_blocks_2025_210 in Electoral District 2 are:
+A total of 706 voters participated.
+A total of 745 were elegible out of a population of 989.
+The participation rate was 94.77%.
+Progressive Party obtained 372 votes.
+Woke Party obtained 331 votes.
+Blank votes obtained 1 votes.
+Null votes obtained 2 votes.
+
+
+Results for HotC_blocks_2025_211 in Electoral District 2 are:
+A total of 986 voters participated.
+A total of 1082 were elegible out of a population of 1357.
+The participation rate was 91.13%.
+Progressive Party obtained 525 votes.
+Woke Party obtained 458 votes.
+Blank votes obtained 3 votes.
+
+
+Results for HotC_blocks_2025_212 in Electoral District 2 are:
+A total of 637 voters participated.
+A total of 694 were elegible out of a population of 934.
+The participation rate was 91.79%.
+Progressive Party obtained 300 votes.
+Woke Party obtained 332 votes.
+Blank votes obtained 3 votes.
+Null votes obtained 2 votes.
+
+
+Results for HotC_blocks_2025_305 in Electoral District 2 are:
+A total of 815 voters participated.
+A total of 832 were elegible out of a population of 1020.
+The participation rate was 97.96%.
+Progressive Party obtained 486 votes.
+Woke Party obtained 323 votes.
+Blank votes obtained 3 votes.
+Null votes obtained 3 votes.
+
+
+Results for HotC_blocks_2025_311 in Electoral District 2 are:
+A total of 852 voters participated.
+A total of 912 were elegible out of a population of 1093.
+The participation rate was 93.42%.
+Progressive Party obtained 450 votes.
+Woke Party obtained 396 votes.
+Blank votes obtained 3 votes.
+Null votes obtained 3 votes.
+
+
+Results for HotC_blocks_2025_312 in Electoral District 2 are:
+A total of 863 voters participated.
+A total of 874 were elegible out of a population of 1117.
+The participation rate was 98.74%.
+Progressive Party obtained 533 votes.
+Woke Party obtained 327 votes.
+Blank votes obtained 1 votes.
+Null votes obtained 2 votes.
+
+
+Results for Electoral District 2 are:
+A total of 5755 voters participated.
+A total of 6081 were elegible out of a population of 7753.
+The participation rate was 94.64%.
+Progressive Party obtained 3078 votes and 1 seats.
+Woke Party obtained 2648 votes and 0 seats.
+Blank votes obtained 16 votes.
+Null votes obtained 13 votes.
+
+
+Results for HotC_blocks_2025_204 in Electoral District 3 are:
+A total of 949 voters participated.
+A total of 968 were elegible out of a population of 1339.
+The participation rate was 98.04%.
+Progressive Party obtained 499 votes.
+Woke Party obtained 450 votes.
+
+
+Results for HotC_blocks_2025_205 in Electoral District 3 are:
+A total of 862 voters participated.
+A total of 942 were elegible out of a population of 1227.
+The participation rate was 91.51%.
+Progressive Party obtained 287 votes.
+Woke Party obtained 572 votes.
+Blank votes obtained 2 votes.
+Null votes obtained 1 votes.
+
+
+Results for HotC_blocks_2025_206 in Electoral District 3 are:
+A total of 897 voters participated.
+A total of 973 were elegible out of a population of 1313.
+The participation rate was 92.19%.
+Progressive Party obtained 437 votes.
+Woke Party obtained 455 votes.
+Blank votes obtained 1 votes.
+Null votes obtained 4 votes.
+
+
+Results for HotC_blocks_2025_308 in Electoral District 3 are:
+A total of 921 voters participated.
+A total of 1016 were elegible out of a population of 1345.
+The participation rate was 90.65%.
+Progressive Party obtained 477 votes.
+Woke Party obtained 437 votes.
+Blank votes obtained 4 votes.
+Null votes obtained 3 votes.
+
+
+Results for HotC_blocks_2025_309 in Electoral District 3 are:
+A total of 948 voters participated.
+A total of 995 were elegible out of a population of 1245.
+The participation rate was 95.28%.
+Progressive Party obtained 288 votes.
+Woke Party obtained 658 votes.
+Null votes obtained 2 votes.
+
+
+Results for HotC_blocks_2025_310 in Electoral District 3 are:
+A total of 743 voters participated.
+A total of 763 were elegible out of a population of 969.
+The participation rate was 97.38%.
+Progressive Party obtained 288 votes.
+Woke Party obtained 451 votes.
+Blank votes obtained 1 votes.
+Null votes obtained 3 votes.
+
+
+Results for Electoral District 3 are:
+A total of 5320 voters participated.
+A total of 5657 were elegible out of a population of 7438.
+The participation rate was 94.04%.
+Progressive Party obtained 2276 votes and 0 seats.
+Woke Party obtained 3023 votes and 1 seats.
+Blank votes obtained 8 votes.
+Null votes obtained 13 votes.
+
+
+Results for HotC_blocks_2025_288 in Electoral District 4 are:
+A total of 775 voters participated.
+A total of 848 were elegible out of a population of 1101.
+The participation rate was 91.39%.
+Progressive Party obtained 394 votes.
+Woke Party obtained 380 votes.
+Null votes obtained 1 votes.
+
+
+Results for HotC_blocks_2025_289 in Electoral District 4 are:
+A total of 749 voters participated.
+A total of 767 were elegible out of a population of 1071.
+The participation rate was 97.65%.
+Progressive Party obtained 394 votes.
+Woke Party obtained 354 votes.
+Blank votes obtained 1 votes.
+
+
+Results for HotC_blocks_2025_290 in Electoral District 4 are:
+A total of 760 voters participated.
+A total of 820 were elegible out of a population of 1049.
+The participation rate was 92.68%.
+Progressive Party obtained 490 votes.
+Woke Party obtained 270 votes.
+
+
+Results for HotC_blocks_2025_291 in Electoral District 4 are:
+A total of 749 voters participated.
+A total of 804 were elegible out of a population of 1002.
+The participation rate was 93.16%.
+Progressive Party obtained 512 votes.
+Woke Party obtained 235 votes.
+Null votes obtained 2 votes.
+
+
+Results for HotC_blocks_2025_304 in Electoral District 4 are:
+A total of 716 voters participated.
+A total of 773 were elegible out of a population of 999.
+The participation rate was 92.63%.
+Progressive Party obtained 470 votes.
+Woke Party obtained 243 votes.
+Null votes obtained 3 votes.
+
+
+Results for HotC_blocks_2025_306 in Electoral District 4 are:
+A total of 1026 voters participated.
+A total of 1107 were elegible out of a population of 1469.
+The participation rate was 92.68%.
+Progressive Party obtained 588 votes.
+Woke Party obtained 433 votes.
+Blank votes obtained 4 votes.
+Null votes obtained 1 votes.
+
+
+Results for HotC_blocks_2025_307 in Electoral District 4 are:
+A total of 960 voters participated.
+A total of 974 were elegible out of a population of 1214.
+The participation rate was 98.56%.
+Progressive Party obtained 487 votes.
+Woke Party obtained 468 votes.
+Blank votes obtained 1 votes.
+Null votes obtained 4 votes.
+
+
+Results for Electoral District 4 are:
+A total of 5735 voters participated.
+A total of 6093 were elegible out of a population of 7905.
+The participation rate was 94.12%.
+Progressive Party obtained 3335 votes and 1 seats.
+Woke Party obtained 2383 votes and 0 seats.
+Blank votes obtained 6 votes.
+Null votes obtained 11 votes.
+
+
+Results for HotC_blocks_2025_233 in Electoral District 5 are:
+A total of 787 voters participated.
+A total of 839 were elegible out of a population of 1098.
+The participation rate was 93.80%.
+Progressive Party obtained 435 votes.
+Woke Party obtained 347 votes.
+Blank votes obtained 1 votes.
+Null votes obtained 4 votes.
+
+
+Results for HotC_blocks_2025_239 in Electoral District 5 are:
+A total of 1180 voters participated.
+A total of 1242 were elegible out of a population of 1547.
+The participation rate was 95.01%.
+Progressive Party obtained 675 votes.
+Woke Party obtained 500 votes.
+Blank votes obtained 1 votes.
+Null votes obtained 4 votes.
+
+
+Results for HotC_blocks_2025_240 in Electoral District 5 are:
+A total of 898 voters participated.
+A total of 929 were elegible out of a population of 1223.
+The participation rate was 96.66%.
+Progressive Party obtained 324 votes.
+Woke Party obtained 569 votes.
+Blank votes obtained 3 votes.
+Null votes obtained 2 votes.
+
+
+Results for HotC_blocks_2025_241 in Electoral District 5 are:
+A total of 1073 voters participated.
+A total of 1149 were elegible out of a population of 1498.
+The participation rate was 93.39%.
+Progressive Party obtained 431 votes.
+Woke Party obtained 639 votes.
+Blank votes obtained 3 votes.
+
+
+Results for HotC_blocks_2025_242 in Electoral District 5 are:
+A total of 862 voters participated.
+A total of 882 were elegible out of a population of 1144.
+The participation rate was 97.73%.
+Progressive Party obtained 434 votes.
+Woke Party obtained 424 votes.
+Blank votes obtained 2 votes.
+Null votes obtained 2 votes.
+
+
+Results for HotC_blocks_2025_302 in Electoral District 5 are:
+A total of 740 voters participated.
+A total of 822 were elegible out of a population of 1165.
+The participation rate was 90.02%.
+Progressive Party obtained 409 votes.
+Woke Party obtained 329 votes.
+Blank votes obtained 1 votes.
+Null votes obtained 1 votes.
+
+
+Results for Electoral District 5 are:
+A total of 5540 voters participated.
+A total of 5863 were elegible out of a population of 7675.
+The participation rate was 94.49%.
+Progressive Party obtained 2708 votes and 0 seats.
+Woke Party obtained 2808 votes and 1 seats.
+Blank votes obtained 11 votes.
+Null votes obtained 13 votes.
+
+
+Results for HotC_blocks_2025_195 in Electoral District 6 are:
+A total of 1015 voters participated.
+A total of 1057 were elegible out of a population of 1370.
+The participation rate was 96.03%.
+Progressive Party obtained 448 votes.
+Woke Party obtained 565 votes.
+Blank votes obtained 2 votes.
+
+
+Results for HotC_blocks_2025_196 in Electoral District 6 are:
+A total of 682 voters participated.
+A total of 755 were elegible out of a population of 1009.
+The participation rate was 90.33%.
+Progressive Party obtained 324 votes.
+Woke Party obtained 356 votes.
+Blank votes obtained 1 votes.
+Null votes obtained 1 votes.
+
+
+Results for HotC_blocks_2025_213 in Electoral District 6 are:
+A total of 812 voters participated.
+A total of 871 were elegible out of a population of 1154.
+The participation rate was 93.23%.
+Progressive Party obtained 400 votes.
+Woke Party obtained 410 votes.
+Blank votes obtained 1 votes.
+Null votes obtained 1 votes.
+
+
+Results for HotC_blocks_2025_214 in Electoral District 6 are:
+A total of 1069 voters participated.
+A total of 1082 were elegible out of a population of 1343.
+The participation rate was 98.80%.
+Progressive Party obtained 501 votes.
+Woke Party obtained 564 votes.
+Blank votes obtained 2 votes.
+Null votes obtained 2 votes.
+
+
+Results for HotC_blocks_2025_215 in Electoral District 6 are:
+A total of 799 voters participated.
+A total of 816 were elegible out of a population of 1025.
+The participation rate was 97.92%.
+Progressive Party obtained 233 votes.
+Woke Party obtained 563 votes.
+Blank votes obtained 1 votes.
+Null votes obtained 2 votes.
+
+
+Results for HotC_blocks_2025_300 in Electoral District 6 are:
+A total of 765 voters participated.
+A total of 790 were elegible out of a population of 998.
+The participation rate was 96.84%.
+Progressive Party obtained 325 votes.
+Woke Party obtained 440 votes.
+
+
+Results for HotC_blocks_2025_301 in Electoral District 6 are:
+A total of 714 voters participated.
+A total of 743 were elegible out of a population of 938.
+The participation rate was 96.10%.
+Progressive Party obtained 376 votes.
+Woke Party obtained 335 votes.
+Blank votes obtained 2 votes.
+Null votes obtained 1 votes.
+
+
+Results for Electoral District 6 are:
+A total of 5856 voters participated.
+A total of 6114 were elegible out of a population of 7837.
+The participation rate was 95.78%.
+Progressive Party obtained 2607 votes and 0 seats.
+Woke Party obtained 3233 votes and 1 seats.
+Blank votes obtained 9 votes.
+Null votes obtained 7 votes.
+
+
+Results for HotC_blocks_2025_237 in Electoral District 7 are:
+A total of 907 voters participated.
+A total of 965 were elegible out of a population of 1235.
+The participation rate was 93.99%.
+Progressive Party obtained 391 votes.
+Woke Party obtained 516 votes.
+
+
+Results for HotC_blocks_2025_238 in Electoral District 7 are:
+A total of 1079 voters participated.
+A total of 1105 were elegible out of a population of 1454.
+The participation rate was 97.65%.
+Progressive Party obtained 606 votes.
+Woke Party obtained 465 votes.
+Blank votes obtained 3 votes.
+Null votes obtained 5 votes.
+
+
+Results for HotC_blocks_2025_244 in Electoral District 7 are:
+A total of 788 voters participated.
+A total of 801 were elegible out of a population of 1088.
+The participation rate was 98.38%.
+Progressive Party obtained 439 votes.
+Woke Party obtained 347 votes.
+Blank votes obtained 2 votes.
+
+
+Results for HotC_blocks_2025_297 in Electoral District 7 are:
+A total of 740 voters participated.
+A total of 760 were elegible out of a population of 1034.
+The participation rate was 97.37%.
+Progressive Party obtained 354 votes.
+Woke Party obtained 385 votes.
+Blank votes obtained 1 votes.
+
+
+Results for HotC_blocks_2025_298 in Electoral District 7 are:
+A total of 811 voters participated.
+A total of 844 were elegible out of a population of 1028.
+The participation rate was 96.09%.
+Progressive Party obtained 425 votes.
+Woke Party obtained 384 votes.
+Blank votes obtained 2 votes.
+
+
+Results for HotC_blocks_2025_299 in Electoral District 7 are:
+A total of 964 voters participated.
+A total of 1013 were elegible out of a population of 1192.
+The participation rate was 95.16%.
+Progressive Party obtained 617 votes.
+Woke Party obtained 346 votes.
+Blank votes obtained 1 votes.
+
+
+Results for Electoral District 7 are:
+A total of 5289 voters participated.
+A total of 5488 were elegible out of a population of 7031.
+The participation rate was 96.37%.
+Progressive Party obtained 2832 votes and 1 seats.
+Woke Party obtained 2443 votes and 0 seats.
+Blank votes obtained 9 votes.
+Null votes obtained 5 votes.
+
+
+Results for HotC_blocks_2025_260 in Electoral District 8 are:
+A total of 1201 voters participated.
+A total of 1219 were elegible out of a population of 1512.
+The participation rate was 98.52%.
+Progressive Party obtained 553 votes.
+Woke Party obtained 643 votes.
+Blank votes obtained 2 votes.
+Null votes obtained 3 votes.
+
+
+Results for HotC_blocks_2025_269 in Electoral District 8 are:
+A total of 1187 voters participated.
+A total of 1222 were elegible out of a population of 1454.
+The participation rate was 97.14%.
+Progressive Party obtained 403 votes.
+Woke Party obtained 779 votes.
+Blank votes obtained 2 votes.
+Null votes obtained 3 votes.
+
+
+Results for HotC_blocks_2025_293 in Electoral District 8 are:
+A total of 1172 voters participated.
+A total of 1248 were elegible out of a population of 1534.
+The participation rate was 93.91%.
+Progressive Party obtained 597 votes.
+Woke Party obtained 574 votes.
+Null votes obtained 1 votes.
+
+
+Results for HotC_blocks_2025_294 in Electoral District 8 are:
+A total of 774 voters participated.
+A total of 812 were elegible out of a population of 1080.
+The participation rate was 95.32%.
+Progressive Party obtained 413 votes.
+Woke Party obtained 358 votes.
+Blank votes obtained 3 votes.
+
+
+Results for HotC_blocks_2025_295 in Electoral District 8 are:
+A total of 1049 voters participated.
+A total of 1101 were elegible out of a population of 1379.
+The participation rate was 95.28%.
+Progressive Party obtained 581 votes.
+Woke Party obtained 462 votes.
+Blank votes obtained 5 votes.
+Null votes obtained 1 votes.
+
+
+Results for HotC_blocks_2025_296 in Electoral District 8 are:
+A total of 935 voters participated.
+A total of 1026 were elegible out of a population of 1263.
+The participation rate was 91.13%.
+Progressive Party obtained 284 votes.
+Woke Party obtained 647 votes.
+Blank votes obtained 1 votes.
+Null votes obtained 3 votes.
+
+
+Results for Electoral District 8 are:
+A total of 6318 voters participated.
+A total of 6628 were elegible out of a population of 8222.
+The participation rate was 95.32%.
+Progressive Party obtained 2831 votes and 0 seats.
+Woke Party obtained 3463 votes and 1 seats.
+Blank votes obtained 13 votes.
+Null votes obtained 11 votes.
+
+
+Results for HotC_blocks_2025_268 in Electoral District 9 are:
+A total of 1046 voters participated.
+A total of 1132 were elegible out of a population of 1376.
+The participation rate was 92.40%.
+Progressive Party obtained 611 votes.
+Woke Party obtained 432 votes.
+Blank votes obtained 2 votes.
+Null votes obtained 1 votes.
+
+
+Results for HotC_blocks_2025_274 in Electoral District 9 are:
+A total of 843 voters participated.
+A total of 881 were elegible out of a population of 1161.
+The participation rate was 95.69%.
+Progressive Party obtained 480 votes.
+Woke Party obtained 360 votes.
+Blank votes obtained 2 votes.
+Null votes obtained 1 votes.
+
+
+Results for HotC_blocks_2025_278 in Electoral District 9 are:
+A total of 1105 voters participated.
+A total of 1177 were elegible out of a population of 1515.
+The participation rate was 93.88%.
+Progressive Party obtained 660 votes.
+Woke Party obtained 442 votes.
+Blank votes obtained 3 votes.
+
+
+Results for HotC_blocks_2025_279 in Electoral District 9 are:
+A total of 691 voters participated.
+A total of 758 were elegible out of a population of 1050.
+The participation rate was 91.16%.
+Progressive Party obtained 427 votes.
+Woke Party obtained 260 votes.
+Blank votes obtained 2 votes.
+Null votes obtained 2 votes.
+
+
+Results for HotC_blocks_2025_280 in Electoral District 9 are:
+A total of 1192 voters participated.
+A total of 1211 were elegible out of a population of 1474.
+The participation rate was 98.43%.
+Progressive Party obtained 594 votes.
+Woke Party obtained 592 votes.
+Blank votes obtained 2 votes.
+Null votes obtained 4 votes.
+
+
+Results for HotC_blocks_2025_292 in Electoral District 9 are:
+A total of 870 voters participated.
+A total of 960 were elegible out of a population of 1281.
+The participation rate was 90.62%.
+Progressive Party obtained 489 votes.
+Woke Party obtained 378 votes.
+Blank votes obtained 2 votes.
+Null votes obtained 1 votes.
+
+
+Results for Electoral District 9 are:
+A total of 5747 voters participated.
+A total of 6119 were elegible out of a population of 7857.
+The participation rate was 93.92%.
+Progressive Party obtained 3261 votes and 1 seats.
+Woke Party obtained 2464 votes and 0 seats.
+Blank votes obtained 13 votes.
+Null votes obtained 9 votes.
+
+
+Results for HotC_blocks_2025_284 in Electoral District 10 are:
+A total of 1020 voters participated.
+A total of 1082 were elegible out of a population of 1384.
+The participation rate was 94.27%.
+Progressive Party obtained 449 votes.
+Woke Party obtained 569 votes.
+Blank votes obtained 1 votes.
+Null votes obtained 1 votes.
+
+
+Results for HotC_blocks_2025_285 in Electoral District 10 are:
+A total of 1036 voters participated.
+A total of 1070 were elegible out of a population of 1361.
+The participation rate was 96.82%.
+Progressive Party obtained 538 votes.
+Woke Party obtained 496 votes.
+Blank votes obtained 1 votes.
+Null votes obtained 1 votes.
+
+
+Results for HotC_blocks_2025_286 in Electoral District 10 are:
+A total of 1150 voters participated.
+A total of 1255 were elegible out of a population of 1489.
+The participation rate was 91.63%.
+Progressive Party obtained 672 votes.
+Woke Party obtained 471 votes.
+Blank votes obtained 4 votes.
+Null votes obtained 3 votes.
+
+
+Results for HotC_blocks_2025_287 in Electoral District 10 are:
+A total of 897 voters participated.
+A total of 950 were elegible out of a population of 1256.
+The participation rate was 94.42%.
+Progressive Party obtained 328 votes.
+Woke Party obtained 565 votes.
+Blank votes obtained 3 votes.
+Null votes obtained 1 votes.
+
+
+Results for Electoral District 10 are:
+A total of 4103 voters participated.
+A total of 4357 were elegible out of a population of 5490.
+The participation rate was 94.17%.
+Progressive Party obtained 1987 votes and 0 seats.
+Woke Party obtained 2101 votes and 1 seats.
+Blank votes obtained 9 votes.
+Null votes obtained 6 votes.
+
+
+Results for HotC_blocks_2025_273 in Electoral District 11 are:
+A total of 806 voters participated.
+A total of 838 were elegible out of a population of 1143.
+The participation rate was 96.18%.
+Progressive Party obtained 253 votes.
+Woke Party obtained 553 votes.
+
+
+Results for HotC_blocks_2025_275 in Electoral District 11 are:
+A total of 982 voters participated.
+A total of 1016 were elegible out of a population of 1434.
+The participation rate was 96.65%.
+Progressive Party obtained 432 votes.
+Woke Party obtained 546 votes.
+Blank votes obtained 2 votes.
+Null votes obtained 2 votes.
+
+
+Results for HotC_blocks_2025_276 in Electoral District 11 are:
+A total of 1031 voters participated.
+A total of 1044 were elegible out of a population of 1378.
+The participation rate was 98.75%.
+Progressive Party obtained 625 votes.
+Woke Party obtained 400 votes.
+Blank votes obtained 2 votes.
+Null votes obtained 4 votes.
+
+
+Results for HotC_blocks_2025_277 in Electoral District 11 are:
+A total of 690 voters participated.
+A total of 739 were elegible out of a population of 957.
+The participation rate was 93.37%.
+Progressive Party obtained 281 votes.
+Woke Party obtained 405 votes.
+Blank votes obtained 1 votes.
+Null votes obtained 3 votes.
+
+
+Results for HotC_blocks_2025_281 in Electoral District 11 are:
+A total of 751 voters participated.
+A total of 817 were elegible out of a population of 1028.
+The participation rate was 91.92%.
+Progressive Party obtained 392 votes.
+Woke Party obtained 358 votes.
+Blank votes obtained 1 votes.
+
+
+Results for HotC_blocks_2025_282 in Electoral District 11 are:
+A total of 727 voters participated.
+A total of 749 were elegible out of a population of 995.
+The participation rate was 97.06%.
+Progressive Party obtained 257 votes.
+Woke Party obtained 469 votes.
+Null votes obtained 1 votes.
+
+
+Results for HotC_blocks_2025_283 in Electoral District 11 are:
+A total of 1270 voters participated.
+A total of 1287 were elegible out of a population of 1538.
+The participation rate was 98.68%.
+Progressive Party obtained 729 votes.
+Woke Party obtained 534 votes.
+Blank votes obtained 3 votes.
+Null votes obtained 4 votes.
+
+
+Results for Electoral District 11 are:
+A total of 6257 voters participated.
+A total of 6490 were elegible out of a population of 8473.
+The participation rate was 96.41%.
+Progressive Party obtained 2969 votes and 0 seats.
+Woke Party obtained 3265 votes and 1 seats.
+Blank votes obtained 9 votes.
+Null votes obtained 14 votes.
+
+
+Results for HotC_blocks_2025_245 in Electoral District 12 are:
+A total of 1022 voters participated.
+A total of 1106 were elegible out of a population of 1536.
+The participation rate was 92.41%.
+Progressive Party obtained 403 votes.
+Woke Party obtained 612 votes.
+Blank votes obtained 5 votes.
+Null votes obtained 2 votes.
+
+
+Results for HotC_blocks_2025_261 in Electoral District 12 are:
+A total of 991 voters participated.
+A total of 1019 were elegible out of a population of 1320.
+The participation rate was 97.25%.
+Progressive Party obtained 498 votes.
+Woke Party obtained 492 votes.
+Blank votes obtained 1 votes.
+
+
+Results for HotC_blocks_2025_262 in Electoral District 12 are:
+A total of 1224 voters participated.
+A total of 1276 were elegible out of a population of 1497.
+The participation rate was 95.92%.
+Progressive Party obtained 397 votes.
+Woke Party obtained 822 votes.
+Blank votes obtained 3 votes.
+Null votes obtained 2 votes.
+
+
+Results for HotC_blocks_2025_263 in Electoral District 12 are:
+A total of 977 voters participated.
+A total of 1017 were elegible out of a population of 1252.
+The participation rate was 96.07%.
+Progressive Party obtained 398 votes.
+Woke Party obtained 575 votes.
+Blank votes obtained 4 votes.
+
+
+Results for HotC_blocks_2025_270 in Electoral District 12 are:
+A total of 994 voters participated.
+A total of 1024 were elegible out of a population of 1250.
+The participation rate was 97.07%.
+Progressive Party obtained 461 votes.
+Woke Party obtained 525 votes.
+Blank votes obtained 6 votes.
+Null votes obtained 2 votes.
+
+
+Results for HotC_blocks_2025_271 in Electoral District 12 are:
+A total of 1103 voters participated.
+A total of 1130 were elegible out of a population of 1440.
+The participation rate was 97.61%.
+Progressive Party obtained 430 votes.
+Woke Party obtained 672 votes.
+Null votes obtained 1 votes.
+
+
+Results for HotC_blocks_2025_272 in Electoral District 12 are:
+A total of 911 voters participated.
+A total of 935 were elegible out of a population of 1107.
+The participation rate was 97.43%.
+Progressive Party obtained 294 votes.
+Woke Party obtained 616 votes.
+Null votes obtained 1 votes.
+
+
+Results for Electoral District 12 are:
+A total of 7222 voters participated.
+A total of 7507 were elegible out of a population of 9402.
+The participation rate was 96.20%.
+Progressive Party obtained 2881 votes and 0 seats.
+Woke Party obtained 4314 votes and 1 seats.
+Blank votes obtained 19 votes.
+Null votes obtained 8 votes.
+
+
+Results for HotC_blocks_2025_222 in Electoral District 13 are:
+A total of 986 voters participated.
+A total of 1077 were elegible out of a population of 1335.
+The participation rate was 91.55%.
+Progressive Party obtained 612 votes.
+Woke Party obtained 367 votes.
+Blank votes obtained 3 votes.
+Null votes obtained 4 votes.
+
+
+Results for HotC_blocks_2025_225 in Electoral District 13 are:
+A total of 1072 voters participated.
+A total of 1187 were elegible out of a population of 1419.
+The participation rate was 90.31%.
+Progressive Party obtained 472 votes.
+Woke Party obtained 598 votes.
+Null votes obtained 2 votes.
+
+
+Results for HotC_blocks_2025_226 in Electoral District 13 are:
+A total of 724 voters participated.
+A total of 775 were elegible out of a population of 992.
+The participation rate was 93.42%.
+Progressive Party obtained 422 votes.
+Woke Party obtained 296 votes.
+Blank votes obtained 2 votes.
+Null votes obtained 4 votes.
+
+
+Results for HotC_blocks_2025_246 in Electoral District 13 are:
+A total of 1050 voters participated.
+A total of 1110 were elegible out of a population of 1485.
+The participation rate was 94.59%.
+Progressive Party obtained 616 votes.
+Woke Party obtained 429 votes.
+Blank votes obtained 1 votes.
+Null votes obtained 4 votes.
+
+
+Results for HotC_blocks_2025_265 in Electoral District 13 are:
+A total of 695 voters participated.
+A total of 716 were elegible out of a population of 979.
+The participation rate was 97.07%.
+Progressive Party obtained 436 votes.
+Woke Party obtained 256 votes.
+Blank votes obtained 1 votes.
+Null votes obtained 2 votes.
+
+
+Results for HotC_blocks_2025_266 in Electoral District 13 are:
+A total of 724 voters participated.
+A total of 761 were elegible out of a population of 1007.
+The participation rate was 95.14%.
+Progressive Party obtained 423 votes.
+Woke Party obtained 296 votes.
+Blank votes obtained 3 votes.
+Null votes obtained 2 votes.
+
+
+Results for HotC_blocks_2025_267 in Electoral District 13 are:
+A total of 945 voters participated.
+A total of 998 were elegible out of a population of 1294.
+The participation rate was 94.69%.
+Progressive Party obtained 578 votes.
+Woke Party obtained 363 votes.
+Blank votes obtained 3 votes.
+Null votes obtained 1 votes.
+
+
+Results for Electoral District 13 are:
+A total of 6196 voters participated.
+A total of 6624 were elegible out of a population of 8511.
+The participation rate was 93.54%.
+Progressive Party obtained 3559 votes and 1 seats.
+Woke Party obtained 2605 votes and 0 seats.
+Blank votes obtained 13 votes.
+Null votes obtained 19 votes.
+
+
+Results for HotC_blocks_2025_224 in Electoral District 14 are:
+A total of 943 voters participated.
+A total of 983 were elegible out of a population of 1252.
+The participation rate was 95.93%.
+Progressive Party obtained 560 votes.
+Woke Party obtained 381 votes.
+Null votes obtained 2 votes.
+
+
+Results for HotC_blocks_2025_227 in Electoral District 14 are:
+A total of 1128 voters participated.
+A total of 1215 were elegible out of a population of 1461.
+The participation rate was 92.84%.
+Progressive Party obtained 589 votes.
+Woke Party obtained 534 votes.
+Blank votes obtained 2 votes.
+Null votes obtained 3 votes.
+
+
+Results for HotC_blocks_2025_228 in Electoral District 14 are:
+A total of 887 voters participated.
+A total of 951 were elegible out of a population of 1201.
+The participation rate was 93.27%.
+Progressive Party obtained 515 votes.
+Woke Party obtained 366 votes.
+Blank votes obtained 1 votes.
+Null votes obtained 5 votes.
+
+
+Results for HotC_blocks_2025_235 in Electoral District 14 are:
+A total of 934 voters participated.
+A total of 946 were elegible out of a population of 1283.
+The participation rate was 98.73%.
+Progressive Party obtained 437 votes.
+Woke Party obtained 491 votes.
+Blank votes obtained 2 votes.
+Null votes obtained 4 votes.
+
+
+Results for HotC_blocks_2025_236 in Electoral District 14 are:
+A total of 914 voters participated.
+A total of 944 were elegible out of a population of 1322.
+The participation rate was 96.82%.
+Progressive Party obtained 552 votes.
+Woke Party obtained 358 votes.
+Blank votes obtained 2 votes.
+Null votes obtained 2 votes.
+
+
+Results for HotC_blocks_2025_264 in Electoral District 14 are:
+A total of 1124 voters participated.
+A total of 1159 were elegible out of a population of 1348.
+The participation rate was 96.98%.
+Progressive Party obtained 451 votes.
+Woke Party obtained 669 votes.
+Blank votes obtained 2 votes.
+Null votes obtained 2 votes.
+
+
+Results for Electoral District 14 are:
+A total of 5930 voters participated.
+A total of 6198 were elegible out of a population of 7867.
+The participation rate was 95.68%.
+Progressive Party obtained 3104 votes and 1 seats.
+Woke Party obtained 2799 votes and 0 seats.
+Blank votes obtained 9 votes.
+Null votes obtained 18 votes.
+
+
+Results for HotC_blocks_2025_221 in Electoral District 15 are:
+A total of 1053 voters participated.
+A total of 1073 were elegible out of a population of 1478.
+The participation rate was 98.14%.
+Progressive Party obtained 422 votes.
+Woke Party obtained 628 votes.
+Blank votes obtained 3 votes.
+
+
+Results for HotC_blocks_2025_247 in Electoral District 15 are:
+A total of 698 voters participated.
+A total of 727 were elegible out of a population of 985.
+The participation rate was 96.01%.
+Progressive Party obtained 230 votes.
+Woke Party obtained 468 votes.
+
+
+Results for HotC_blocks_2025_248 in Electoral District 15 are:
+A total of 737 voters participated.
+A total of 801 were elegible out of a population of 1075.
+The participation rate was 92.01%.
+Progressive Party obtained 419 votes.
+Woke Party obtained 316 votes.
+Blank votes obtained 1 votes.
+Null votes obtained 1 votes.
+
+
+Results for HotC_blocks_2025_249 in Electoral District 15 are:
+A total of 725 voters participated.
+A total of 804 were elegible out of a population of 999.
+The participation rate was 90.17%.
+Progressive Party obtained 208 votes.
+Woke Party obtained 515 votes.
+Blank votes obtained 2 votes.
+
+
+Results for HotC_blocks_2025_251 in Electoral District 15 are:
+A total of 1133 voters participated.
+A total of 1146 were elegible out of a population of 1475.
+The participation rate was 98.87%.
+Progressive Party obtained 541 votes.
+Woke Party obtained 587 votes.
+Blank votes obtained 2 votes.
+Null votes obtained 3 votes.
+
+
+Results for HotC_blocks_2025_257 in Electoral District 15 are:
+A total of 870 voters participated.
+A total of 907 were elegible out of a population of 1144.
+The participation rate was 95.92%.
+Progressive Party obtained 402 votes.
+Woke Party obtained 466 votes.
+Blank votes obtained 2 votes.
+
+
+Results for HotC_blocks_2025_259 in Electoral District 15 are:
+A total of 781 voters participated.
+A total of 813 were elegible out of a population of 1112.
+The participation rate was 96.06%.
+Progressive Party obtained 332 votes.
+Woke Party obtained 447 votes.
+Blank votes obtained 2 votes.
+
+
+Results for Electoral District 15 are:
+A total of 5997 voters participated.
+A total of 6271 were elegible out of a population of 8268.
+The participation rate was 95.63%.
+Progressive Party obtained 2554 votes and 0 seats.
+Woke Party obtained 3427 votes and 1 seats.
+Blank votes obtained 12 votes.
+Null votes obtained 4 votes.
+
+
+Results for HotC_blocks_2025_250 in Electoral District 16 are:
+A total of 758 voters participated.
+A total of 825 were elegible out of a population of 1109.
+The participation rate was 91.88%.
+Progressive Party obtained 374 votes.
+Woke Party obtained 383 votes.
+Blank votes obtained 1 votes.
+
+
+Results for HotC_blocks_2025_252 in Electoral District 16 are:
+A total of 1182 voters participated.
+A total of 1244 were elegible out of a population of 1525.
+The participation rate was 95.02%.
+Progressive Party obtained 582 votes.
+Woke Party obtained 596 votes.
+Blank votes obtained 2 votes.
+Null votes obtained 2 votes.
+
+
+Results for HotC_blocks_2025_253 in Electoral District 16 are:
+A total of 751 voters participated.
+A total of 809 were elegible out of a population of 962.
+The participation rate was 92.83%.
+Progressive Party obtained 361 votes.
+Woke Party obtained 389 votes.
+Null votes obtained 1 votes.
+
+
+Results for HotC_blocks_2025_254 in Electoral District 16 are:
+A total of 681 voters participated.
+A total of 747 were elegible out of a population of 944.
+The participation rate was 91.16%.
+Progressive Party obtained 322 votes.
+Woke Party obtained 358 votes.
+Null votes obtained 1 votes.
+
+
+Results for HotC_blocks_2025_255 in Electoral District 16 are:
+A total of 842 voters participated.
+A total of 905 were elegible out of a population of 1180.
+The participation rate was 93.04%.
+Progressive Party obtained 434 votes.
+Woke Party obtained 405 votes.
+Blank votes obtained 2 votes.
+Null votes obtained 1 votes.
+
+
+Results for HotC_blocks_2025_256 in Electoral District 16 are:
+A total of 1162 voters participated.
+A total of 1217 were elegible out of a population of 1430.
+The participation rate was 95.48%.
+Progressive Party obtained 522 votes.
+Woke Party obtained 636 votes.
+Blank votes obtained 1 votes.
+Null votes obtained 3 votes.
+
+
+Results for HotC_blocks_2025_258 in Electoral District 16 are:
+A total of 639 voters participated.
+A total of 698 were elegible out of a population of 957.
+The participation rate was 91.55%.
+Progressive Party obtained 359 votes.
+Woke Party obtained 278 votes.
+Blank votes obtained 1 votes.
+Null votes obtained 1 votes.
+
+
+Results for Electoral District 16 are:
+A total of 6015 voters participated.
+A total of 6445 were elegible out of a population of 8107.
+The participation rate was 93.33%.
+Progressive Party obtained 2954 votes and 0 seats.
+Woke Party obtained 3045 votes and 1 seats.
+Blank votes obtained 7 votes.
+Null votes obtained 9 votes.
+
+
+Results for HotC_blocks_2025_216 in Electoral District 17 are:
+A total of 701 voters participated.
+A total of 734 were elegible out of a population of 924.
+The participation rate was 95.50%.
+Progressive Party obtained 327 votes.
+Woke Party obtained 370 votes.
+Blank votes obtained 1 votes.
+Null votes obtained 3 votes.
+
+
+Results for HotC_blocks_2025_217 in Electoral District 17 are:
+A total of 1178 voters participated.
+A total of 1193 were elegible out of a population of 1419.
+The participation rate was 98.74%.
+Progressive Party obtained 339 votes.
+Woke Party obtained 838 votes.
+Null votes obtained 1 votes.
+
+
+Results for HotC_blocks_2025_218 in Electoral District 17 are:
+A total of 714 voters participated.
+A total of 732 were elegible out of a population of 933.
+The participation rate was 97.54%.
+Progressive Party obtained 268 votes.
+Woke Party obtained 444 votes.
+Blank votes obtained 2 votes.
+
+
+Results for HotC_blocks_2025_219 in Electoral District 17 are:
+A total of 1015 voters participated.
+A total of 1063 were elegible out of a population of 1296.
+The participation rate was 95.48%.
+Progressive Party obtained 489 votes.
+Woke Party obtained 520 votes.
+Blank votes obtained 3 votes.
+Null votes obtained 3 votes.
+
+
+Results for HotC_blocks_2025_220 in Electoral District 17 are:
+A total of 717 voters participated.
+A total of 796 were elegible out of a population of 995.
+The participation rate was 90.08%.
+Progressive Party obtained 252 votes.
+Woke Party obtained 464 votes.
+Blank votes obtained 1 votes.
+
+
+Results for HotC_blocks_2025_231 in Electoral District 17 are:
+A total of 873 voters participated.
+A total of 928 were elegible out of a population of 1184.
+The participation rate was 94.07%.
+Progressive Party obtained 326 votes.
+Woke Party obtained 542 votes.
+Blank votes obtained 3 votes.
+Null votes obtained 2 votes.
+
+
+Results for HotC_blocks_2025_243 in Electoral District 17 are:
+A total of 850 voters participated.
+A total of 910 were elegible out of a population of 1254.
+The participation rate was 93.41%.
+Progressive Party obtained 288 votes.
+Woke Party obtained 560 votes.
+Blank votes obtained 1 votes.
+Null votes obtained 1 votes.
+
+
+Results for Electoral District 17 are:
+A total of 6048 voters participated.
+A total of 6356 were elegible out of a population of 8005.
+The participation rate was 95.15%.
+Progressive Party obtained 2289 votes and 0 seats.
+Woke Party obtained 3738 votes and 1 seats.
+Blank votes obtained 11 votes.
+Null votes obtained 10 votes.
+
+
+Results for HotC_blocks_2025_223 in Electoral District 18 are:
+A total of 914 voters participated.
+A total of 971 were elegible out of a population of 1206.
+The participation rate was 94.13%.
+Progressive Party obtained 499 votes.
+Woke Party obtained 412 votes.
+Blank votes obtained 1 votes.
+Null votes obtained 2 votes.
+
+
+Results for HotC_blocks_2025_229 in Electoral District 18 are:
+A total of 994 voters participated.
+A total of 1053 were elegible out of a population of 1337.
+The participation rate was 94.40%.
+Progressive Party obtained 595 votes.
+Woke Party obtained 395 votes.
+Blank votes obtained 1 votes.
+Null votes obtained 3 votes.
+
+
+Results for HotC_blocks_2025_230 in Electoral District 18 are:
+A total of 1169 voters participated.
+A total of 1225 were elegible out of a population of 1542.
+The participation rate was 95.43%.
+Progressive Party obtained 792 votes.
+Woke Party obtained 371 votes.
+Blank votes obtained 2 votes.
+Null votes obtained 4 votes.
+
+
+Results for HotC_blocks_2025_232 in Electoral District 18 are:
+A total of 1114 voters participated.
+A total of 1139 were elegible out of a population of 1385.
+The participation rate was 97.81%.
+Progressive Party obtained 520 votes.
+Woke Party obtained 589 votes.
+Blank votes obtained 4 votes.
+Null votes obtained 1 votes.
+
+
+Results for HotC_blocks_2025_234 in Electoral District 18 are:
+A total of 991 voters participated.
+A total of 1097 were elegible out of a population of 1357.
+The participation rate was 90.34%.
+Progressive Party obtained 525 votes.
+Woke Party obtained 464 votes.
+Blank votes obtained 1 votes.
+Null votes obtained 1 votes.
+
+
+Results for Electoral District 18 are:
+A total of 5182 voters participated.
+A total of 5485 were elegible out of a population of 6827.
+The participation rate was 94.48%.
+Progressive Party obtained 2931 votes and 1 seats.
+Woke Party obtained 2231 votes and 0 seats.
+Blank votes obtained 9 votes.
+Null votes obtained 11 votes.
+
+
+Results for HotC_blocks_2025_194 in Electoral District 19 are:
+A total of 703 voters participated.
+A total of 778 were elegible out of a population of 977.
+The participation rate was 90.36%.
+Progressive Party obtained 497 votes.
+Woke Party obtained 201 votes.
+Blank votes obtained 3 votes.
+Null votes obtained 2 votes.
+
+
+Results for HotC_blocks_2025_201 in Electoral District 19 are:
+A total of 1005 voters participated.
+A total of 1056 were elegible out of a population of 1480.
+The participation rate was 95.17%.
+Progressive Party obtained 597 votes.
+Woke Party obtained 405 votes.
+Blank votes obtained 1 votes.
+Null votes obtained 2 votes.
+
+
+Results for HotC_blocks_2025_202 in Electoral District 19 are:
+A total of 892 voters participated.
+A total of 988 were elegible out of a population of 1295.
+The participation rate was 90.28%.
+Progressive Party obtained 380 votes.
+Woke Party obtained 509 votes.
+Blank votes obtained 1 votes.
+Null votes obtained 2 votes.
+
+
+Results for HotC_blocks_2025_203 in Electoral District 19 are:
+A total of 876 voters participated.
+A total of 909 were elegible out of a population of 1175.
+The participation rate was 96.37%.
+Progressive Party obtained 364 votes.
+Woke Party obtained 512 votes.
+
+
+Results for HotC_blocks_2025_207 in Electoral District 19 are:
+A total of 711 voters participated.
+A total of 785 were elegible out of a population of 1008.
+The participation rate was 90.57%.
+Progressive Party obtained 455 votes.
+Woke Party obtained 251 votes.
+Blank votes obtained 3 votes.
+Null votes obtained 2 votes.
+
+
+Results for HotC_blocks_2025_208 in Electoral District 19 are:
+A total of 995 voters participated.
+A total of 1085 were elegible out of a population of 1423.
+The participation rate was 91.71%.
+Progressive Party obtained 495 votes.
+Woke Party obtained 492 votes.
+Blank votes obtained 3 votes.
+Null votes obtained 5 votes.
+
+
+Results for HotC_blocks_2025_209 in Electoral District 19 are:
+A total of 923 voters participated.
+A total of 958 were elegible out of a population of 1168.
+The participation rate was 96.35%.
+Progressive Party obtained 642 votes.
+Woke Party obtained 276 votes.
+Blank votes obtained 2 votes.
+Null votes obtained 3 votes.
+
+
+Results for Electoral District 19 are:
+A total of 6105 voters participated.
+A total of 6559 were elegible out of a population of 8526.
+The participation rate was 93.08%.
+Progressive Party obtained 3430 votes and 1 seats.
+Woke Party obtained 2646 votes and 0 seats.
+Blank votes obtained 13 votes.
+Null votes obtained 16 votes.
+
+
+Results for HotC_blocks_2025_179 in Electoral District 20 are:
+A total of 717 voters participated.
+A total of 753 were elegible out of a population of 991.
+The participation rate was 95.22%.
+Progressive Party obtained 312 votes.
+Woke Party obtained 404 votes.
+Blank votes obtained 1 votes.
+
+
+Results for HotC_blocks_2025_180 in Electoral District 20 are:
+A total of 1155 voters participated.
+A total of 1246 were elegible out of a population of 1538.
+The participation rate was 92.70%.
+Progressive Party obtained 559 votes.
+Woke Party obtained 590 votes.
+Blank votes obtained 1 votes.
+Null votes obtained 5 votes.
+
+
+Results for HotC_blocks_2025_181 in Electoral District 20 are:
+A total of 680 voters participated.
+A total of 754 were elegible out of a population of 1013.
+The participation rate was 90.19%.
+Progressive Party obtained 327 votes.
+Woke Party obtained 352 votes.
+Null votes obtained 1 votes.
+
+
+Results for HotC_blocks_2025_187 in Electoral District 20 are:
+A total of 1000 voters participated.
+A total of 1010 were elegible out of a population of 1288.
+The participation rate was 99.01%.
+Progressive Party obtained 649 votes.
+Woke Party obtained 348 votes.
+Blank votes obtained 2 votes.
+Null votes obtained 1 votes.
+
+
+Results for HotC_blocks_2025_188 in Electoral District 20 are:
+A total of 818 voters participated.
+A total of 889 were elegible out of a population of 1131.
+The participation rate was 92.01%.
+Progressive Party obtained 417 votes.
+Woke Party obtained 398 votes.
+Blank votes obtained 2 votes.
+Null votes obtained 1 votes.
+
+
+Results for HotC_blocks_2025_189 in Electoral District 20 are:
+A total of 709 voters participated.
+A total of 762 were elegible out of a population of 980.
+The participation rate was 93.04%.
+Progressive Party obtained 321 votes.
+Woke Party obtained 386 votes.
+Blank votes obtained 1 votes.
+Null votes obtained 1 votes.
+
+
+Results for HotC_blocks_2025_191 in Electoral District 20 are:
+A total of 912 voters participated.
+A total of 1013 were elegible out of a population of 1294.
+The participation rate was 90.03%.
+Progressive Party obtained 571 votes.
+Woke Party obtained 336 votes.
+Blank votes obtained 2 votes.
+Null votes obtained 3 votes.
+
+
+Results for HotC_blocks_2025_200 in Electoral District 20 are:
+A total of 676 voters participated.
+A total of 730 were elegible out of a population of 965.
+The participation rate was 92.60%.
+Progressive Party obtained 472 votes.
+Woke Party obtained 204 votes.
+
+
+Results for Electoral District 20 are:
+A total of 6667 voters participated.
+A total of 7157 were elegible out of a population of 9200.
+The participation rate was 93.15%.
+Progressive Party obtained 3628 votes and 1 seats.
+Woke Party obtained 3018 votes and 0 seats.
+Blank votes obtained 9 votes.
+Null votes obtained 12 votes.
+
+
+Results for HotC_blocks_2025_163 in Electoral District 21 are:
+A total of 825 voters participated.
+A total of 897 were elegible out of a population of 1150.
+The participation rate was 91.97%.
+Progressive Party obtained 329 votes.
+Woke Party obtained 494 votes.
+Null votes obtained 2 votes.
+
+
+Results for HotC_blocks_2025_164 in Electoral District 21 are:
+A total of 910 voters participated.
+A total of 974 were elegible out of a population of 1190.
+The participation rate was 93.43%.
+Progressive Party obtained 449 votes.
+Woke Party obtained 457 votes.
+Blank votes obtained 1 votes.
+Null votes obtained 3 votes.
+
+
+Results for HotC_blocks_2025_185 in Electoral District 21 are:
+A total of 930 voters participated.
+A total of 991 were elegible out of a population of 1245.
+The participation rate was 93.84%.
+Progressive Party obtained 452 votes.
+Woke Party obtained 474 votes.
+Blank votes obtained 2 votes.
+Null votes obtained 2 votes.
+
+
+Results for HotC_blocks_2025_186 in Electoral District 21 are:
+A total of 896 voters participated.
+A total of 986 were elegible out of a population of 1376.
+The participation rate was 90.87%.
+Progressive Party obtained 477 votes.
+Woke Party obtained 416 votes.
+Blank votes obtained 2 votes.
+Null votes obtained 1 votes.
+
+
+Results for HotC_blocks_2025_197 in Electoral District 21 are:
+A total of 1002 voters participated.
+A total of 1055 were elegible out of a population of 1328.
+The participation rate was 94.98%.
+Progressive Party obtained 548 votes.
+Woke Party obtained 451 votes.
+Blank votes obtained 3 votes.
+
+
+Results for HotC_blocks_2025_198 in Electoral District 21 are:
+A total of 973 voters participated.
+A total of 987 were elegible out of a population of 1167.
+The participation rate was 98.58%.
+Progressive Party obtained 598 votes.
+Woke Party obtained 370 votes.
+Blank votes obtained 3 votes.
+Null votes obtained 2 votes.
+
+
+Results for Electoral District 21 are:
+A total of 5536 voters participated.
+A total of 5890 were elegible out of a population of 7456.
+The participation rate was 93.99%.
+Progressive Party obtained 2853 votes and 1 seats.
+Woke Party obtained 2662 votes and 0 seats.
+Blank votes obtained 11 votes.
+Null votes obtained 10 votes.
+
+
+Results for HotC_blocks_2025_182 in Electoral District 22 are:
+A total of 1128 voters participated.
+A total of 1146 were elegible out of a population of 1544.
+The participation rate was 98.43%.
+Progressive Party obtained 633 votes.
+Woke Party obtained 491 votes.
+Blank votes obtained 2 votes.
+Null votes obtained 2 votes.
+
+
+Results for HotC_blocks_2025_183 in Electoral District 22 are:
+A total of 896 voters participated.
+A total of 906 were elegible out of a population of 1180.
+The participation rate was 98.90%.
+Progressive Party obtained 543 votes.
+Woke Party obtained 348 votes.
+Blank votes obtained 4 votes.
+Null votes obtained 1 votes.
+
+
+Results for HotC_blocks_2025_184 in Electoral District 22 are:
+A total of 1140 voters participated.
+A total of 1176 were elegible out of a population of 1464.
+The participation rate was 96.94%.
+Progressive Party obtained 639 votes.
+Woke Party obtained 494 votes.
+Blank votes obtained 4 votes.
+Null votes obtained 3 votes.
+
+
+Results for HotC_blocks_2025_190 in Electoral District 22 are:
+A total of 951 voters participated.
+A total of 1004 were elegible out of a population of 1186.
+The participation rate was 94.72%.
+Progressive Party obtained 512 votes.
+Woke Party obtained 436 votes.
+Blank votes obtained 1 votes.
+Null votes obtained 2 votes.
+
+
+Results for HotC_blocks_2025_192 in Electoral District 22 are:
+A total of 946 voters participated.
+A total of 993 were elegible out of a population of 1319.
+The participation rate was 95.27%.
+Progressive Party obtained 628 votes.
+Woke Party obtained 314 votes.
+Blank votes obtained 2 votes.
+Null votes obtained 2 votes.
+
+
+Results for HotC_blocks_2025_193 in Electoral District 22 are:
+A total of 897 voters participated.
+A total of 926 were elegible out of a population of 1221.
+The participation rate was 96.87%.
+Progressive Party obtained 606 votes.
+Woke Party obtained 285 votes.
+Blank votes obtained 3 votes.
+Null votes obtained 3 votes.
+
+
+Results for Electoral District 22 are:
+A total of 5958 voters participated.
+A total of 6151 were elegible out of a population of 7914.
+The participation rate was 96.86%.
+Progressive Party obtained 3561 votes and 1 seats.
+Woke Party obtained 2368 votes and 0 seats.
+Blank votes obtained 16 votes.
+Null votes obtained 13 votes.
+
+
+Results for HotC_blocks_2025_169 in Electoral District 23 are:
+A total of 979 voters participated.
+A total of 996 were elegible out of a population of 1296.
+The participation rate was 98.29%.
+Progressive Party obtained 434 votes.
+Woke Party obtained 543 votes.
+Blank votes obtained 1 votes.
+Null votes obtained 1 votes.
+
+
+Results for HotC_blocks_2025_171 in Electoral District 23 are:
+A total of 1028 voters participated.
+A total of 1093 were elegible out of a population of 1392.
+The participation rate was 94.05%.
+Progressive Party obtained 447 votes.
+Woke Party obtained 579 votes.
+Blank votes obtained 1 votes.
+Null votes obtained 1 votes.
+
+
+Results for HotC_blocks_2025_172 in Electoral District 23 are:
+A total of 871 voters participated.
+A total of 947 were elegible out of a population of 1248.
+The participation rate was 91.97%.
+Progressive Party obtained 404 votes.
+Woke Party obtained 462 votes.
+Blank votes obtained 3 votes.
+Null votes obtained 2 votes.
+
+
+Results for HotC_blocks_2025_173 in Electoral District 23 are:
+A total of 888 voters participated.
+A total of 957 were elegible out of a population of 1124.
+The participation rate was 92.79%.
+Progressive Party obtained 384 votes.
+Woke Party obtained 503 votes.
+Blank votes obtained 1 votes.
+
+
+Results for HotC_blocks_2025_174 in Electoral District 23 are:
+A total of 906 voters participated.
+A total of 1005 were elegible out of a population of 1348.
+The participation rate was 90.15%.
+Progressive Party obtained 377 votes.
+Woke Party obtained 528 votes.
+Blank votes obtained 1 votes.
+
+
+Results for HotC_blocks_2025_178 in Electoral District 23 are:
+A total of 936 voters participated.
+A total of 1007 were elegible out of a population of 1176.
+The participation rate was 92.95%.
+Progressive Party obtained 404 votes.
+Woke Party obtained 525 votes.
+Blank votes obtained 3 votes.
+Null votes obtained 4 votes.
+
+
+Results for Electoral District 23 are:
+A total of 5608 voters participated.
+A total of 6005 were elegible out of a population of 7584.
+The participation rate was 93.39%.
+Progressive Party obtained 2450 votes and 0 seats.
+Woke Party obtained 3140 votes and 1 seats.
+Blank votes obtained 10 votes.
+Null votes obtained 8 votes.
+
+
+Results for HotC_blocks_2025_157 in Electoral District 24 are:
+A total of 992 voters participated.
+A total of 1059 were elegible out of a population of 1251.
+The participation rate was 93.67%.
+Progressive Party obtained 604 votes.
+Woke Party obtained 383 votes.
+Blank votes obtained 3 votes.
+Null votes obtained 2 votes.
+
+
+Results for HotC_blocks_2025_158 in Electoral District 24 are:
+A total of 720 voters participated.
+A total of 796 were elegible out of a population of 1017.
+The participation rate was 90.45%.
+Progressive Party obtained 258 votes.
+Woke Party obtained 462 votes.
+
+
+Results for HotC_blocks_2025_162 in Electoral District 24 are:
+A total of 1079 voters participated.
+A total of 1115 were elegible out of a population of 1538.
+The participation rate was 96.77%.
+Progressive Party obtained 569 votes.
+Woke Party obtained 502 votes.
+Blank votes obtained 3 votes.
+Null votes obtained 5 votes.
+
+
+Results for HotC_blocks_2025_175 in Electoral District 24 are:
+A total of 915 voters participated.
+A total of 957 were elegible out of a population of 1189.
+The participation rate was 95.61%.
+Progressive Party obtained 463 votes.
+Woke Party obtained 448 votes.
+Blank votes obtained 2 votes.
+Null votes obtained 2 votes.
+
+
+Results for HotC_blocks_2025_176 in Electoral District 24 are:
+A total of 745 voters participated.
+A total of 787 were elegible out of a population of 1010.
+The participation rate was 94.66%.
+Progressive Party obtained 452 votes.
+Woke Party obtained 291 votes.
+Blank votes obtained 1 votes.
+Null votes obtained 1 votes.
+
+
+Results for HotC_blocks_2025_177 in Electoral District 24 are:
+A total of 1025 voters participated.
+A total of 1079 were elegible out of a population of 1528.
+The participation rate was 95.00%.
+Progressive Party obtained 592 votes.
+Woke Party obtained 426 votes.
+Blank votes obtained 6 votes.
+Null votes obtained 1 votes.
+
+
+Results for Electoral District 24 are:
+A total of 5476 voters participated.
+A total of 5793 were elegible out of a population of 7533.
+The participation rate was 94.53%.
+Progressive Party obtained 2938 votes and 1 seats.
+Woke Party obtained 2512 votes and 0 seats.
+Blank votes obtained 15 votes.
+Null votes obtained 11 votes.
+
+
+Results for HotC_blocks_2025_166 in Electoral District 25 are:
+A total of 742 voters participated.
+A total of 778 were elegible out of a population of 994.
+The participation rate was 95.37%.
+Progressive Party obtained 365 votes.
+Woke Party obtained 373 votes.
+Blank votes obtained 1 votes.
+Null votes obtained 3 votes.
+
+
+Results for HotC_blocks_2025_170 in Electoral District 25 are:
+A total of 739 voters participated.
+A total of 756 were elegible out of a population of 944.
+The participation rate was 97.75%.
+Progressive Party obtained 403 votes.
+Woke Party obtained 334 votes.
+Blank votes obtained 2 votes.
+
+
+Results for HotC_blocks_2025_68 in Electoral District 25 are:
+A total of 754 voters participated.
+A total of 809 were elegible out of a population of 1032.
+The participation rate was 93.20%.
+Progressive Party obtained 415 votes.
+Woke Party obtained 338 votes.
+Null votes obtained 1 votes.
+
+
+Results for HotC_blocks_2025_69 in Electoral District 25 are:
+A total of 967 voters participated.
+A total of 1005 were elegible out of a population of 1260.
+The participation rate was 96.22%.
+Progressive Party obtained 505 votes.
+Woke Party obtained 459 votes.
+Blank votes obtained 1 votes.
+Null votes obtained 2 votes.
+
+
+Results for HotC_blocks_2025_82 in Electoral District 25 are:
+A total of 936 voters participated.
+A total of 974 were elegible out of a population of 1276.
+The participation rate was 96.10%.
+Progressive Party obtained 342 votes.
+Woke Party obtained 593 votes.
+Blank votes obtained 1 votes.
+
+
+Results for HotC_blocks_2025_93 in Electoral District 25 are:
+A total of 792 voters participated.
+A total of 845 were elegible out of a population of 1068.
+The participation rate was 93.73%.
+Progressive Party obtained 285 votes.
+Woke Party obtained 505 votes.
+Null votes obtained 2 votes.
+
+
+Results for HotC_blocks_2025_94 in Electoral District 25 are:
+A total of 1017 voters participated.
+A total of 1123 were elegible out of a population of 1365.
+The participation rate was 90.56%.
+Progressive Party obtained 525 votes.
+Woke Party obtained 487 votes.
+Blank votes obtained 1 votes.
+Null votes obtained 4 votes.
+
+
+Results for Electoral District 25 are:
+A total of 5947 voters participated.
+A total of 6290 were elegible out of a population of 7939.
+The participation rate was 94.55%.
+Progressive Party obtained 2840 votes and 0 seats.
+Woke Party obtained 3089 votes and 1 seats.
+Blank votes obtained 6 votes.
+Null votes obtained 12 votes.
+
+
+Results for HotC_blocks_2025_111 in Electoral District 26 are:
+A total of 1053 voters participated.
+A total of 1107 were elegible out of a population of 1373.
+The participation rate was 95.12%.
+Progressive Party obtained 392 votes.
+Woke Party obtained 657 votes.
+Blank votes obtained 1 votes.
+Null votes obtained 3 votes.
+
+
+Results for HotC_blocks_2025_113 in Electoral District 26 are:
+A total of 736 voters participated.
+A total of 813 were elegible out of a population of 1073.
+The participation rate was 90.53%.
+Progressive Party obtained 373 votes.
+Woke Party obtained 361 votes.
+Null votes obtained 2 votes.
+
+
+Results for HotC_blocks_2025_114 in Electoral District 26 are:
+A total of 825 voters participated.
+A total of 870 were elegible out of a population of 1121.
+The participation rate was 94.83%.
+Progressive Party obtained 448 votes.
+Woke Party obtained 376 votes.
+Null votes obtained 1 votes.
+
+
+Results for HotC_blocks_2025_115 in Electoral District 26 are:
+A total of 774 voters participated.
+A total of 807 were elegible out of a population of 1044.
+The participation rate was 95.91%.
+Progressive Party obtained 428 votes.
+Woke Party obtained 341 votes.
+Blank votes obtained 2 votes.
+Null votes obtained 3 votes.
+
+
+Results for HotC_blocks_2025_117 in Electoral District 26 are:
+A total of 795 voters participated.
+A total of 832 were elegible out of a population of 1101.
+The participation rate was 95.55%.
+Progressive Party obtained 455 votes.
+Woke Party obtained 338 votes.
+Blank votes obtained 1 votes.
+Null votes obtained 1 votes.
+
+
+Results for HotC_blocks_2025_168 in Electoral District 26 are:
+A total of 811 voters participated.
+A total of 871 were elegible out of a population of 1069.
+The participation rate was 93.11%.
+Progressive Party obtained 443 votes.
+Woke Party obtained 362 votes.
+Blank votes obtained 4 votes.
+Null votes obtained 2 votes.
+
+
+Results for Electoral District 26 are:
+A total of 4994 voters participated.
+A total of 5300 were elegible out of a population of 6781.
+The participation rate was 94.23%.
+Progressive Party obtained 2539 votes and 1 seats.
+Woke Party obtained 2435 votes and 0 seats.
+Blank votes obtained 8 votes.
+Null votes obtained 12 votes.
+
+
+Results for HotC_blocks_2025_167 in Electoral District 27 are:
+A total of 884 voters participated.
+A total of 948 were elegible out of a population of 1246.
+The participation rate was 93.25%.
+Progressive Party obtained 398 votes.
+Woke Party obtained 482 votes.
+Blank votes obtained 4 votes.
+
+
+Results for HotC_blocks_2025_58 in Electoral District 27 are:
+A total of 764 voters participated.
+A total of 794 were elegible out of a population of 1037.
+The participation rate was 96.22%.
+Progressive Party obtained 381 votes.
+Woke Party obtained 382 votes.
+Null votes obtained 1 votes.
+
+
+Results for HotC_blocks_2025_59 in Electoral District 27 are:
+A total of 775 voters participated.
+A total of 796 were elegible out of a population of 996.
+The participation rate was 97.36%.
+Progressive Party obtained 439 votes.
+Woke Party obtained 332 votes.
+Blank votes obtained 2 votes.
+Null votes obtained 2 votes.
+
+
+Results for HotC_blocks_2025_60 in Electoral District 27 are:
+A total of 824 voters participated.
+A total of 854 were elegible out of a population of 1181.
+The participation rate was 96.49%.
+Progressive Party obtained 507 votes.
+Woke Party obtained 314 votes.
+Blank votes obtained 1 votes.
+Null votes obtained 2 votes.
+
+
+Results for HotC_blocks_2025_83 in Electoral District 27 are:
+A total of 743 voters participated.
+A total of 823 were elegible out of a population of 1108.
+The participation rate was 90.28%.
+Progressive Party obtained 416 votes.
+Woke Party obtained 322 votes.
+Blank votes obtained 3 votes.
+Null votes obtained 2 votes.
+
+
+Results for HotC_blocks_2025_84 in Electoral District 27 are:
+A total of 1119 voters participated.
+A total of 1162 were elegible out of a population of 1418.
+The participation rate was 96.30%.
+Progressive Party obtained 463 votes.
+Woke Party obtained 650 votes.
+Blank votes obtained 3 votes.
+Null votes obtained 3 votes.
+
+
+Results for HotC_blocks_2025_85 in Electoral District 27 are:
+A total of 1095 voters participated.
+A total of 1151 were elegible out of a population of 1489.
+The participation rate was 95.13%.
+Progressive Party obtained 470 votes.
+Woke Party obtained 624 votes.
+Blank votes obtained 1 votes.
+
+
+Results for Electoral District 27 are:
+A total of 6204 voters participated.
+A total of 6528 were elegible out of a population of 8475.
+The participation rate was 95.04%.
+Progressive Party obtained 3074 votes and 0 seats.
+Woke Party obtained 3106 votes and 1 seats.
+Blank votes obtained 14 votes.
+Null votes obtained 10 votes.
+
+
+Results for HotC_blocks_2025_147 in Electoral District 28 are:
+A total of 1011 voters participated.
+A total of 1067 were elegible out of a population of 1328.
+The participation rate was 94.75%.
+Progressive Party obtained 406 votes.
+Woke Party obtained 602 votes.
+Blank votes obtained 2 votes.
+Null votes obtained 1 votes.
+
+
+Results for HotC_blocks_2025_148 in Electoral District 28 are:
+A total of 1135 voters participated.
+A total of 1165 were elegible out of a population of 1441.
+The participation rate was 97.42%.
+Progressive Party obtained 520 votes.
+Woke Party obtained 614 votes.
+Blank votes obtained 1 votes.
+
+
+Results for HotC_blocks_2025_159 in Electoral District 28 are:
+A total of 1142 voters participated.
+A total of 1167 were elegible out of a population of 1481.
+The participation rate was 97.86%.
+Progressive Party obtained 745 votes.
+Woke Party obtained 393 votes.
+Blank votes obtained 3 votes.
+Null votes obtained 1 votes.
+
+
+Results for HotC_blocks_2025_160 in Electoral District 28 are:
+A total of 903 voters participated.
+A total of 912 were elegible out of a population of 1176.
+The participation rate was 99.01%.
+Progressive Party obtained 577 votes.
+Woke Party obtained 320 votes.
+Blank votes obtained 1 votes.
+Null votes obtained 5 votes.
+
+
+Results for HotC_blocks_2025_161 in Electoral District 28 are:
+A total of 745 voters participated.
+A total of 808 were elegible out of a population of 997.
+The participation rate was 92.20%.
+Progressive Party obtained 483 votes.
+Woke Party obtained 260 votes.
+Blank votes obtained 2 votes.
+
+
+Results for HotC_blocks_2025_165 in Electoral District 28 are:
+A total of 746 voters participated.
+A total of 803 were elegible out of a population of 1044.
+The participation rate was 92.90%.
+Progressive Party obtained 500 votes.
+Woke Party obtained 245 votes.
+Blank votes obtained 1 votes.
+
+
+Results for Electoral District 28 are:
+A total of 5682 voters participated.
+A total of 5922 were elegible out of a population of 7467.
+The participation rate was 95.95%.
+Progressive Party obtained 3231 votes and 1 seats.
+Woke Party obtained 2434 votes and 0 seats.
+Blank votes obtained 10 votes.
+Null votes obtained 7 votes.
+
+
+Results for HotC_blocks_2025_128 in Electoral District 29 are:
+A total of 938 voters participated.
+A total of 1006 were elegible out of a population of 1363.
+The participation rate was 93.24%.
+Progressive Party obtained 328 votes.
+Woke Party obtained 608 votes.
+Blank votes obtained 2 votes.
+
+
+Results for HotC_blocks_2025_129 in Electoral District 29 are:
+A total of 864 voters participated.
+A total of 883 were elegible out of a population of 1070.
+The participation rate was 97.85%.
+Progressive Party obtained 328 votes.
+Woke Party obtained 530 votes.
+Blank votes obtained 3 votes.
+Null votes obtained 3 votes.
+
+
+Results for HotC_blocks_2025_145 in Electoral District 29 are:
+A total of 813 voters participated.
+A total of 850 were elegible out of a population of 1082.
+The participation rate was 95.65%.
+Progressive Party obtained 365 votes.
+Woke Party obtained 447 votes.
+Null votes obtained 1 votes.
+
+
+Results for HotC_blocks_2025_146 in Electoral District 29 are:
+A total of 1013 voters participated.
+A total of 1101 were elegible out of a population of 1495.
+The participation rate was 92.01%.
+Progressive Party obtained 391 votes.
+Woke Party obtained 618 votes.
+Blank votes obtained 3 votes.
+Null votes obtained 1 votes.
+
+
+Results for HotC_blocks_2025_154 in Electoral District 29 are:
+A total of 913 voters participated.
+A total of 959 were elegible out of a population of 1314.
+The participation rate was 95.20%.
+Progressive Party obtained 324 votes.
+Woke Party obtained 589 votes.
+
+
+Results for HotC_blocks_2025_155 in Electoral District 29 are:
+A total of 920 voters participated.
+A total of 1007 were elegible out of a population of 1314.
+The participation rate was 91.36%.
+Progressive Party obtained 447 votes.
+Woke Party obtained 470 votes.
+Blank votes obtained 2 votes.
+Null votes obtained 1 votes.
+
+
+Results for HotC_blocks_2025_156 in Electoral District 29 are:
+A total of 854 voters participated.
+A total of 904 were elegible out of a population of 1238.
+The participation rate was 94.47%.
+Progressive Party obtained 385 votes.
+Woke Party obtained 464 votes.
+Blank votes obtained 2 votes.
+Null votes obtained 3 votes.
+
+
+Results for Electoral District 29 are:
+A total of 6315 voters participated.
+A total of 6710 were elegible out of a population of 8876.
+The participation rate was 94.11%.
+Progressive Party obtained 2568 votes and 0 seats.
+Woke Party obtained 3726 votes and 1 seats.
+Blank votes obtained 12 votes.
+Null votes obtained 9 votes.
+
+
+Results for HotC_blocks_2025_136 in Electoral District 30 are:
+A total of 1016 voters participated.
+A total of 1095 were elegible out of a population of 1353.
+The participation rate was 92.79%.
+Progressive Party obtained 550 votes.
+Woke Party obtained 461 votes.
+Null votes obtained 5 votes.
+
+
+Results for HotC_blocks_2025_137 in Electoral District 30 are:
+A total of 901 voters participated.
+A total of 965 were elegible out of a population of 1300.
+The participation rate was 93.37%.
+Progressive Party obtained 544 votes.
+Woke Party obtained 356 votes.
+Blank votes obtained 1 votes.
+
+
+Results for HotC_blocks_2025_138 in Electoral District 30 are:
+A total of 950 voters participated.
+A total of 980 were elegible out of a population of 1292.
+The participation rate was 96.94%.
+Progressive Party obtained 510 votes.
+Woke Party obtained 438 votes.
+Null votes obtained 2 votes.
+
+
+Results for HotC_blocks_2025_150 in Electoral District 30 are:
+A total of 756 voters participated.
+A total of 802 were elegible out of a population of 998.
+The participation rate was 94.26%.
+Progressive Party obtained 280 votes.
+Woke Party obtained 475 votes.
+Null votes obtained 1 votes.
+
+
+Results for HotC_blocks_2025_151 in Electoral District 30 are:
+A total of 693 voters participated.
+A total of 769 were elegible out of a population of 977.
+The participation rate was 90.12%.
+Progressive Party obtained 414 votes.
+Woke Party obtained 275 votes.
+Blank votes obtained 4 votes.
+
+
+Results for HotC_blocks_2025_152 in Electoral District 30 are:
+A total of 1132 voters participated.
+A total of 1228 were elegible out of a population of 1521.
+The participation rate was 92.18%.
+Progressive Party obtained 576 votes.
+Woke Party obtained 549 votes.
+Blank votes obtained 3 votes.
+Null votes obtained 4 votes.
+
+
+Results for HotC_blocks_2025_153 in Electoral District 30 are:
+A total of 735 voters participated.
+A total of 806 were elegible out of a population of 986.
+The participation rate was 91.19%.
+Progressive Party obtained 373 votes.
+Woke Party obtained 357 votes.
+Blank votes obtained 4 votes.
+Null votes obtained 1 votes.
+
+
+Results for Electoral District 30 are:
+A total of 6183 voters participated.
+A total of 6645 were elegible out of a population of 8427.
+The participation rate was 93.05%.
+Progressive Party obtained 3247 votes and 1 seats.
+Woke Party obtained 2911 votes and 0 seats.
+Blank votes obtained 12 votes.
+Null votes obtained 13 votes.
+
+
+Results for HotC_blocks_2025_121 in Electoral District 31 are:
+A total of 937 voters participated.
+A total of 1033 were elegible out of a population of 1336.
+The participation rate was 90.71%.
+Progressive Party obtained 609 votes.
+Woke Party obtained 327 votes.
+Blank votes obtained 1 votes.
+
+
+Results for HotC_blocks_2025_139 in Electoral District 31 are:
+A total of 1000 voters participated.
+A total of 1067 were elegible out of a population of 1322.
+The participation rate was 93.72%.
+Progressive Party obtained 588 votes.
+Woke Party obtained 411 votes.
+Blank votes obtained 1 votes.
+
+
+Results for HotC_blocks_2025_141 in Electoral District 31 are:
+A total of 1081 voters participated.
+A total of 1129 were elegible out of a population of 1309.
+The participation rate was 95.75%.
+Progressive Party obtained 516 votes.
+Woke Party obtained 562 votes.
+Blank votes obtained 2 votes.
+Null votes obtained 1 votes.
+
+
+Results for HotC_blocks_2025_142 in Electoral District 31 are:
+A total of 1010 voters participated.
+A total of 1092 were elegible out of a population of 1320.
+The participation rate was 92.49%.
+Progressive Party obtained 583 votes.
+Woke Party obtained 423 votes.
+Blank votes obtained 1 votes.
+Null votes obtained 3 votes.
+
+
+Results for HotC_blocks_2025_143 in Electoral District 31 are:
+A total of 770 voters participated.
+A total of 846 were elegible out of a population of 1111.
+The participation rate was 91.02%.
+Progressive Party obtained 418 votes.
+Woke Party obtained 347 votes.
+Blank votes obtained 3 votes.
+Null votes obtained 2 votes.
+
+
+Results for HotC_blocks_2025_149 in Electoral District 31 are:
+A total of 843 voters participated.
+A total of 864 were elegible out of a population of 1121.
+The participation rate was 97.57%.
+Progressive Party obtained 514 votes.
+Woke Party obtained 328 votes.
+Blank votes obtained 1 votes.
+
+
+Results for Electoral District 31 are:
+A total of 5641 voters participated.
+A total of 6031 were elegible out of a population of 7519.
+The participation rate was 93.53%.
+Progressive Party obtained 3228 votes and 1 seats.
+Woke Party obtained 2398 votes and 0 seats.
+Blank votes obtained 9 votes.
+Null votes obtained 6 votes.
+
+
+Results for HotC_blocks_2025_118 in Electoral District 32 are:
+A total of 1143 voters participated.
+A total of 1216 were elegible out of a population of 1537.
+The participation rate was 94.00%.
+Progressive Party obtained 584 votes.
+Woke Party obtained 557 votes.
+Null votes obtained 2 votes.
+
+
+Results for HotC_blocks_2025_122 in Electoral District 32 are:
+A total of 1066 voters participated.
+A total of 1079 were elegible out of a population of 1367.
+The participation rate was 98.80%.
+Progressive Party obtained 499 votes.
+Woke Party obtained 562 votes.
+Blank votes obtained 2 votes.
+Null votes obtained 3 votes.
+
+
+Results for HotC_blocks_2025_123 in Electoral District 32 are:
+A total of 903 voters participated.
+A total of 923 were elegible out of a population of 1179.
+The participation rate was 97.83%.
+Progressive Party obtained 536 votes.
+Woke Party obtained 365 votes.
+Blank votes obtained 1 votes.
+Null votes obtained 1 votes.
+
+
+Results for HotC_blocks_2025_124 in Electoral District 32 are:
+A total of 802 voters participated.
+A total of 812 were elegible out of a population of 1003.
+The participation rate was 98.77%.
+Progressive Party obtained 327 votes.
+Woke Party obtained 471 votes.
+Blank votes obtained 1 votes.
+Null votes obtained 3 votes.
+
+
+Results for HotC_blocks_2025_125 in Electoral District 32 are:
+A total of 909 voters participated.
+A total of 935 were elegible out of a population of 1235.
+The participation rate was 97.22%.
+Progressive Party obtained 465 votes.
+Woke Party obtained 439 votes.
+Blank votes obtained 1 votes.
+Null votes obtained 4 votes.
+
+
+Results for HotC_blocks_2025_144 in Electoral District 32 are:
+A total of 1156 voters participated.
+A total of 1182 were elegible out of a population of 1540.
+The participation rate was 97.80%.
+Progressive Party obtained 536 votes.
+Woke Party obtained 614 votes.
+Blank votes obtained 3 votes.
+Null votes obtained 3 votes.
+
+
+Results for Electoral District 32 are:
+A total of 5979 voters participated.
+A total of 6147 were elegible out of a population of 7861.
+The participation rate was 97.27%.
+Progressive Party obtained 2947 votes and 0 seats.
+Woke Party obtained 3008 votes and 1 seats.
+Blank votes obtained 8 votes.
+Null votes obtained 16 votes.
+
+
+Results for HotC_blocks_2025_120 in Electoral District 33 are:
+A total of 984 voters participated.
+A total of 1014 were elegible out of a population of 1355.
+The participation rate was 97.04%.
+Progressive Party obtained 267 votes.
+Woke Party obtained 716 votes.
+Blank votes obtained 1 votes.
+
+
+Results for HotC_blocks_2025_131 in Electoral District 33 are:
+A total of 877 voters participated.
+A total of 954 were elegible out of a population of 1318.
+The participation rate was 91.93%.
+Progressive Party obtained 454 votes.
+Woke Party obtained 419 votes.
+Blank votes obtained 2 votes.
+Null votes obtained 2 votes.
+
+
+Results for HotC_blocks_2025_132 in Electoral District 33 are:
+A total of 893 voters participated.
+A total of 945 were elegible out of a population of 1164.
+The participation rate was 94.50%.
+Progressive Party obtained 392 votes.
+Woke Party obtained 501 votes.
+
+
+Results for HotC_blocks_2025_133 in Electoral District 33 are:
+A total of 848 voters participated.
+A total of 926 were elegible out of a population of 1176.
+The participation rate was 91.58%.
+Progressive Party obtained 462 votes.
+Woke Party obtained 384 votes.
+Blank votes obtained 1 votes.
+Null votes obtained 1 votes.
+
+
+Results for HotC_blocks_2025_135 in Electoral District 33 are:
+A total of 994 voters participated.
+A total of 1004 were elegible out of a population of 1203.
+The participation rate was 99.00%.
+Progressive Party obtained 327 votes.
+Woke Party obtained 664 votes.
+Null votes obtained 3 votes.
+
+
+Results for HotC_blocks_2025_140 in Electoral District 33 are:
+A total of 1008 voters participated.
+A total of 1065 were elegible out of a population of 1488.
+The participation rate was 94.65%.
+Progressive Party obtained 429 votes.
+Woke Party obtained 576 votes.
+Blank votes obtained 1 votes.
+Null votes obtained 2 votes.
+
+
+Results for Electoral District 33 are:
+A total of 5604 voters participated.
+A total of 5908 were elegible out of a population of 7704.
+The participation rate was 94.85%.
+Progressive Party obtained 2331 votes and 0 seats.
+Woke Party obtained 3260 votes and 1 seats.
+Blank votes obtained 5 votes.
+Null votes obtained 8 votes.
+
+
+Results for HotC_blocks_2025_100 in Electoral District 34 are:
+A total of 1114 voters participated.
+A total of 1169 were elegible out of a population of 1528.
+The participation rate was 95.30%.
+Progressive Party obtained 451 votes.
+Woke Party obtained 658 votes.
+Blank votes obtained 3 votes.
+Null votes obtained 2 votes.
+
+
+Results for HotC_blocks_2025_102 in Electoral District 34 are:
+A total of 939 voters participated.
+A total of 1003 were elegible out of a population of 1288.
+The participation rate was 93.62%.
+Progressive Party obtained 392 votes.
+Woke Party obtained 543 votes.
+Blank votes obtained 2 votes.
+Null votes obtained 2 votes.
+
+
+Results for HotC_blocks_2025_103 in Electoral District 34 are:
+A total of 1078 voters participated.
+A total of 1193 were elegible out of a population of 1548.
+The participation rate was 90.36%.
+Progressive Party obtained 375 votes.
+Woke Party obtained 700 votes.
+Blank votes obtained 2 votes.
+Null votes obtained 1 votes.
+
+
+Results for HotC_blocks_2025_119 in Electoral District 34 are:
+A total of 964 voters participated.
+A total of 985 were elegible out of a population of 1330.
+The participation rate was 97.87%.
+Progressive Party obtained 337 votes.
+Woke Party obtained 625 votes.
+Null votes obtained 2 votes.
+
+
+Results for HotC_blocks_2025_130 in Electoral District 34 are:
+A total of 851 voters participated.
+A total of 920 were elegible out of a population of 1204.
+The participation rate was 92.50%.
+Progressive Party obtained 336 votes.
+Woke Party obtained 512 votes.
+Blank votes obtained 3 votes.
+
+
+Results for HotC_blocks_2025_134 in Electoral District 34 are:
+A total of 984 voters participated.
+A total of 1064 were elegible out of a population of 1318.
+The participation rate was 92.48%.
+Progressive Party obtained 370 votes.
+Woke Party obtained 607 votes.
+Blank votes obtained 3 votes.
+Null votes obtained 4 votes.
+
+
+Results for Electoral District 34 are:
+A total of 5930 voters participated.
+A total of 6334 were elegible out of a population of 8216.
+The participation rate was 93.62%.
+Progressive Party obtained 2261 votes and 0 seats.
+Woke Party obtained 3645 votes and 1 seats.
+Blank votes obtained 13 votes.
+Null votes obtained 11 votes.
+
+
+Results for HotC_blocks_2025_105 in Electoral District 35 are:
+A total of 659 voters participated.
+A total of 721 were elegible out of a population of 1016.
+The participation rate was 91.40%.
+Progressive Party obtained 386 votes.
+Woke Party obtained 268 votes.
+Blank votes obtained 2 votes.
+Null votes obtained 3 votes.
+
+
+Results for HotC_blocks_2025_106 in Electoral District 35 are:
+A total of 1006 voters participated.
+A total of 1107 were elegible out of a population of 1413.
+The participation rate was 90.88%.
+Progressive Party obtained 534 votes.
+Woke Party obtained 468 votes.
+Blank votes obtained 2 votes.
+Null votes obtained 2 votes.
+
+
+Results for HotC_blocks_2025_108 in Electoral District 35 are:
+A total of 901 voters participated.
+A total of 956 were elegible out of a population of 1255.
+The participation rate was 94.25%.
+Progressive Party obtained 334 votes.
+Woke Party obtained 562 votes.
+Blank votes obtained 2 votes.
+Null votes obtained 3 votes.
+
+
+Results for HotC_blocks_2025_109 in Electoral District 35 are:
+A total of 774 voters participated.
+A total of 828 were elegible out of a population of 1137.
+The participation rate was 93.48%.
+Progressive Party obtained 431 votes.
+Woke Party obtained 340 votes.
+Blank votes obtained 3 votes.
+
+
+Results for HotC_blocks_2025_112 in Electoral District 35 are:
+A total of 643 voters participated.
+A total of 679 were elegible out of a population of 931.
+The participation rate was 94.70%.
+Progressive Party obtained 351 votes.
+Woke Party obtained 287 votes.
+Null votes obtained 5 votes.
+
+
+Results for HotC_blocks_2025_126 in Electoral District 35 are:
+A total of 1061 voters participated.
+A total of 1141 were elegible out of a population of 1455.
+The participation rate was 92.99%.
+Progressive Party obtained 432 votes.
+Woke Party obtained 628 votes.
+Null votes obtained 1 votes.
+
+
+Results for HotC_blocks_2025_127 in Electoral District 35 are:
+A total of 721 voters participated.
+A total of 756 were elegible out of a population of 973.
+The participation rate was 95.37%.
+Progressive Party obtained 402 votes.
+Woke Party obtained 313 votes.
+Blank votes obtained 4 votes.
+Null votes obtained 2 votes.
+
+
+Results for Electoral District 35 are:
+A total of 5765 voters participated.
+A total of 6188 were elegible out of a population of 8180.
+The participation rate was 93.16%.
+Progressive Party obtained 2870 votes and 1 seats.
+Woke Party obtained 2866 votes and 0 seats.
+Blank votes obtained 13 votes.
+Null votes obtained 16 votes.
+
+
+Results for HotC_blocks_2025_116 in Electoral District 36 are:
+A total of 929 voters participated.
+A total of 1021 were elegible out of a population of 1313.
+The participation rate was 90.99%.
+Progressive Party obtained 309 votes.
+Woke Party obtained 617 votes.
+Blank votes obtained 2 votes.
+Null votes obtained 1 votes.
+
+
+Results for HotC_blocks_2025_64 in Electoral District 36 are:
+A total of 1059 voters participated.
+A total of 1148 were elegible out of a population of 1494.
+The participation rate was 92.25%.
+Progressive Party obtained 411 votes.
+Woke Party obtained 645 votes.
+Blank votes obtained 1 votes.
+Null votes obtained 2 votes.
+
+
+Results for HotC_blocks_2025_70 in Electoral District 36 are:
+A total of 824 voters participated.
+A total of 853 were elegible out of a population of 1136.
+The participation rate was 96.60%.
+Progressive Party obtained 386 votes.
+Woke Party obtained 436 votes.
+Blank votes obtained 2 votes.
+
+
+Results for HotC_blocks_2025_71 in Electoral District 36 are:
+A total of 807 voters participated.
+A total of 840 were elegible out of a population of 1021.
+The participation rate was 96.07%.
+Progressive Party obtained 297 votes.
+Woke Party obtained 507 votes.
+Blank votes obtained 3 votes.
+
+
+Results for HotC_blocks_2025_87 in Electoral District 36 are:
+A total of 1064 voters participated.
+A total of 1096 were elegible out of a population of 1392.
+The participation rate was 97.08%.
+Progressive Party obtained 424 votes.
+Woke Party obtained 636 votes.
+Blank votes obtained 2 votes.
+Null votes obtained 2 votes.
+
+
+Results for HotC_blocks_2025_88 in Electoral District 36 are:
+A total of 959 voters participated.
+A total of 1019 were elegible out of a population of 1326.
+The participation rate was 94.11%.
+Progressive Party obtained 367 votes.
+Woke Party obtained 590 votes.
+Blank votes obtained 2 votes.
+
+
+Results for Electoral District 36 are:
+A total of 5642 voters participated.
+A total of 5977 were elegible out of a population of 7682.
+The participation rate was 94.40%.
+Progressive Party obtained 2194 votes and 0 seats.
+Woke Party obtained 3431 votes and 1 seats.
+Blank votes obtained 12 votes.
+Null votes obtained 5 votes.
+
+
+Results for HotC_blocks_2025_110 in Electoral District 37 are:
+A total of 893 voters participated.
+A total of 977 were elegible out of a population of 1290.
+The participation rate was 91.40%.
+Progressive Party obtained 268 votes.
+Woke Party obtained 624 votes.
+Blank votes obtained 1 votes.
+
+
+Results for HotC_blocks_2025_72 in Electoral District 37 are:
+A total of 967 voters participated.
+A total of 1020 were elegible out of a population of 1357.
+The participation rate was 94.80%.
+Progressive Party obtained 388 votes.
+Woke Party obtained 577 votes.
+Blank votes obtained 2 votes.
+
+
+Results for HotC_blocks_2025_73 in Electoral District 37 are:
+A total of 702 voters participated.
+A total of 778 were elegible out of a population of 1060.
+The participation rate was 90.23%.
+Progressive Party obtained 283 votes.
+Woke Party obtained 418 votes.
+Null votes obtained 1 votes.
+
+
+Results for HotC_blocks_2025_86 in Electoral District 37 are:
+A total of 976 voters participated.
+A total of 1042 were elegible out of a population of 1393.
+The participation rate was 93.67%.
+Progressive Party obtained 467 votes.
+Woke Party obtained 508 votes.
+Null votes obtained 1 votes.
+
+
+Results for HotC_blocks_2025_91 in Electoral District 37 are:
+A total of 722 voters participated.
+A total of 754 were elegible out of a population of 1020.
+The participation rate was 95.76%.
+Progressive Party obtained 253 votes.
+Woke Party obtained 468 votes.
+Null votes obtained 1 votes.
+
+
+Results for HotC_blocks_2025_92 in Electoral District 37 are:
+A total of 757 voters participated.
+A total of 808 were elegible out of a population of 992.
+The participation rate was 93.69%.
+Progressive Party obtained 315 votes.
+Woke Party obtained 437 votes.
+Blank votes obtained 5 votes.
+
+
+Results for Electoral District 37 are:
+A total of 5017 voters participated.
+A total of 5379 were elegible out of a population of 7112.
+The participation rate was 93.27%.
+Progressive Party obtained 1974 votes and 0 seats.
+Woke Party obtained 3032 votes and 1 seats.
+Blank votes obtained 8 votes.
+Null votes obtained 3 votes.
+
+
+Results for HotC_blocks_2025_104 in Electoral District 38 are:
+A total of 745 voters participated.
+A total of 757 were elegible out of a population of 922.
+The participation rate was 98.41%.
+Progressive Party obtained 206 votes.
+Woke Party obtained 539 votes.
+
+
+Results for HotC_blocks_2025_107 in Electoral District 38 are:
+A total of 876 voters participated.
+A total of 968 were elegible out of a population of 1300.
+The participation rate was 90.50%.
+Progressive Party obtained 380 votes.
+Woke Party obtained 494 votes.
+Null votes obtained 2 votes.
+
+
+Results for HotC_blocks_2025_79 in Electoral District 38 are:
+A total of 806 voters participated.
+A total of 888 were elegible out of a population of 1128.
+The participation rate was 90.77%.
+Progressive Party obtained 299 votes.
+Woke Party obtained 504 votes.
+Blank votes obtained 1 votes.
+Null votes obtained 2 votes.
+
+
+Results for HotC_blocks_2025_80 in Electoral District 38 are:
+A total of 703 voters participated.
+A total of 749 were elegible out of a population of 1014.
+The participation rate was 93.86%.
+Progressive Party obtained 264 votes.
+Woke Party obtained 436 votes.
+Blank votes obtained 1 votes.
+Null votes obtained 2 votes.
+
+
+Results for HotC_blocks_2025_81 in Electoral District 38 are:
+A total of 900 voters participated.
+A total of 963 were elegible out of a population of 1230.
+The participation rate was 93.46%.
+Progressive Party obtained 351 votes.
+Woke Party obtained 544 votes.
+Blank votes obtained 3 votes.
+Null votes obtained 2 votes.
+
+
+Results for HotC_blocks_2025_89 in Electoral District 38 are:
+A total of 897 voters participated.
+A total of 926 were elegible out of a population of 1238.
+The participation rate was 96.87%.
+Progressive Party obtained 247 votes.
+Woke Party obtained 649 votes.
+Null votes obtained 1 votes.
+
+
+Results for HotC_blocks_2025_90 in Electoral District 38 are:
+A total of 1012 voters participated.
+A total of 1068 were elegible out of a population of 1345.
+The participation rate was 94.76%.
+Progressive Party obtained 433 votes.
+Woke Party obtained 576 votes.
+Blank votes obtained 2 votes.
+Null votes obtained 1 votes.
+
+
+Results for Electoral District 38 are:
+A total of 5939 voters participated.
+A total of 6319 were elegible out of a population of 8177.
+The participation rate was 93.99%.
+Progressive Party obtained 2180 votes and 0 seats.
+Woke Party obtained 3742 votes and 1 seats.
+Blank votes obtained 7 votes.
+Null votes obtained 10 votes.
+
+
+Results for HotC_blocks_2025_101 in Electoral District 39 are:
+A total of 854 voters participated.
+A total of 938 were elegible out of a population of 1255.
+The participation rate was 91.04%.
+Progressive Party obtained 527 votes.
+Woke Party obtained 325 votes.
+Blank votes obtained 1 votes.
+Null votes obtained 1 votes.
+
+
+Results for HotC_blocks_2025_95 in Electoral District 39 are:
+A total of 1002 voters participated.
+A total of 1039 were elegible out of a population of 1361.
+The participation rate was 96.44%.
+Progressive Party obtained 601 votes.
+Woke Party obtained 399 votes.
+Blank votes obtained 1 votes.
+Null votes obtained 1 votes.
+
+
+Results for HotC_blocks_2025_96 in Electoral District 39 are:
+A total of 863 voters participated.
+A total of 912 were elegible out of a population of 1168.
+The participation rate was 94.63%.
+Progressive Party obtained 417 votes.
+Woke Party obtained 444 votes.
+Null votes obtained 2 votes.
+
+
+Results for HotC_blocks_2025_97 in Electoral District 39 are:
+A total of 893 voters participated.
+A total of 973 were elegible out of a population of 1356.
+The participation rate was 91.78%.
+Progressive Party obtained 509 votes.
+Woke Party obtained 382 votes.
+Blank votes obtained 2 votes.
+
+
+Results for HotC_blocks_2025_98 in Electoral District 39 are:
+A total of 977 voters participated.
+A total of 999 were elegible out of a population of 1255.
+The participation rate was 97.80%.
+Progressive Party obtained 477 votes.
+Woke Party obtained 497 votes.
+Blank votes obtained 1 votes.
+Null votes obtained 2 votes.
+
+
+Results for HotC_blocks_2025_99 in Electoral District 39 are:
+A total of 813 voters participated.
+A total of 869 were elegible out of a population of 1108.
+The participation rate was 93.56%.
+Progressive Party obtained 502 votes.
+Woke Party obtained 307 votes.
+Blank votes obtained 3 votes.
+Null votes obtained 1 votes.
+
+
+Results for Electoral District 39 are:
+A total of 5402 voters participated.
+A total of 5730 were elegible out of a population of 7503.
+The participation rate was 94.28%.
+Progressive Party obtained 3033 votes and 1 seats.
+Woke Party obtained 2354 votes and 0 seats.
+Blank votes obtained 8 votes.
+Null votes obtained 7 votes.
+
+
+Results for HotC_blocks_2025_62 in Electoral District 40 are:
+A total of 789 voters participated.
+A total of 802 were elegible out of a population of 974.
+The participation rate was 98.38%.
+Progressive Party obtained 441 votes.
+Woke Party obtained 344 votes.
+Blank votes obtained 1 votes.
+Null votes obtained 3 votes.
+
+
+Results for HotC_blocks_2025_74 in Electoral District 40 are:
+A total of 892 voters participated.
+A total of 926 were elegible out of a population of 1182.
+The participation rate was 96.33%.
+Progressive Party obtained 545 votes.
+Woke Party obtained 345 votes.
+Null votes obtained 2 votes.
+
+
+Results for HotC_blocks_2025_75 in Electoral District 40 are:
+A total of 1036 voters participated.
+A total of 1068 were elegible out of a population of 1420.
+The participation rate was 97.00%.
+Progressive Party obtained 580 votes.
+Woke Party obtained 453 votes.
+Blank votes obtained 1 votes.
+Null votes obtained 2 votes.
+
+
+Results for HotC_blocks_2025_76 in Electoral District 40 are:
+A total of 1096 voters participated.
+A total of 1148 were elegible out of a population of 1455.
+The participation rate was 95.47%.
+Progressive Party obtained 586 votes.
+Woke Party obtained 507 votes.
+Blank votes obtained 1 votes.
+Null votes obtained 2 votes.
+
+
+Results for HotC_blocks_2025_77 in Electoral District 40 are:
+A total of 1086 voters participated.
+A total of 1105 were elegible out of a population of 1363.
+The participation rate was 98.28%.
+Progressive Party obtained 673 votes.
+Woke Party obtained 408 votes.
+Blank votes obtained 3 votes.
+Null votes obtained 2 votes.
+
+
+Results for HotC_blocks_2025_78 in Electoral District 40 are:
+A total of 916 voters participated.
+A total of 1017 were elegible out of a population of 1261.
+The participation rate was 90.07%.
+Progressive Party obtained 500 votes.
+Woke Party obtained 411 votes.
+Blank votes obtained 2 votes.
+Null votes obtained 3 votes.
+
+
+Results for Electoral District 40 are:
+A total of 5815 voters participated.
+A total of 6066 were elegible out of a population of 7655.
+The participation rate was 95.86%.
+Progressive Party obtained 3325 votes and 1 seats.
+Woke Party obtained 2468 votes and 0 seats.
+Blank votes obtained 8 votes.
+Null votes obtained 14 votes.
+
+
+Results for HotC_blocks_2025_43 in Electoral District 41 are:
+A total of 814 voters participated.
+A total of 863 were elegible out of a population of 1034.
+The participation rate was 94.32%.
+Progressive Party obtained 360 votes.
+Woke Party obtained 450 votes.
+Blank votes obtained 1 votes.
+Null votes obtained 3 votes.
+
+
+Results for HotC_blocks_2025_52 in Electoral District 41 are:
+A total of 1023 voters participated.
+A total of 1083 were elegible out of a population of 1415.
+The participation rate was 94.46%.
+Progressive Party obtained 571 votes.
+Woke Party obtained 447 votes.
+Blank votes obtained 3 votes.
+Null votes obtained 2 votes.
+
+
+Results for HotC_blocks_2025_53 in Electoral District 41 are:
+A total of 734 voters participated.
+A total of 788 were elegible out of a population of 1014.
+The participation rate was 93.15%.
+Progressive Party obtained 334 votes.
+Woke Party obtained 396 votes.
+Blank votes obtained 1 votes.
+Null votes obtained 3 votes.
+
+
+Results for HotC_blocks_2025_61 in Electoral District 41 are:
+A total of 1045 voters participated.
+A total of 1157 were elegible out of a population of 1444.
+The participation rate was 90.32%.
+Progressive Party obtained 362 votes.
+Woke Party obtained 676 votes.
+Blank votes obtained 4 votes.
+Null votes obtained 3 votes.
+
+
+Results for HotC_blocks_2025_65 in Electoral District 41 are:
+A total of 858 voters participated.
+A total of 950 were elegible out of a population of 1348.
+The participation rate was 90.32%.
+Progressive Party obtained 443 votes.
+Woke Party obtained 409 votes.
+Blank votes obtained 2 votes.
+Null votes obtained 4 votes.
+
+
+Results for HotC_blocks_2025_66 in Electoral District 41 are:
+A total of 898 voters participated.
+A total of 961 were elegible out of a population of 1187.
+The participation rate was 93.44%.
+Progressive Party obtained 459 votes.
+Woke Party obtained 434 votes.
+Blank votes obtained 1 votes.
+Null votes obtained 4 votes.
+
+
+Results for HotC_blocks_2025_67 in Electoral District 41 are:
+A total of 1015 voters participated.
+A total of 1105 were elegible out of a population of 1502.
+The participation rate was 91.86%.
+Progressive Party obtained 336 votes.
+Woke Party obtained 678 votes.
+Blank votes obtained 1 votes.
+
+
+Results for Electoral District 41 are:
+A total of 6387 voters participated.
+A total of 6907 were elegible out of a population of 8944.
+The participation rate was 92.47%.
+Progressive Party obtained 2865 votes and 0 seats.
+Woke Party obtained 3490 votes and 1 seats.
+Blank votes obtained 13 votes.
+Null votes obtained 19 votes.
+
+
+Results for HotC_blocks_2025_45 in Electoral District 42 are:
+A total of 840 voters participated.
+A total of 927 were elegible out of a population of 1109.
+The participation rate was 90.61%.
+Progressive Party obtained 358 votes.
+Woke Party obtained 476 votes.
+Blank votes obtained 2 votes.
+Null votes obtained 4 votes.
+
+
+Results for HotC_blocks_2025_46 in Electoral District 42 are:
+A total of 733 voters participated.
+A total of 797 were elegible out of a population of 970.
+The participation rate was 91.97%.
+Progressive Party obtained 337 votes.
+Woke Party obtained 394 votes.
+Null votes obtained 2 votes.
+
+
+Results for HotC_blocks_2025_54 in Electoral District 42 are:
+A total of 963 voters participated.
+A total of 1002 were elegible out of a population of 1352.
+The participation rate was 96.11%.
+Progressive Party obtained 406 votes.
+Woke Party obtained 553 votes.
+Blank votes obtained 1 votes.
+Null votes obtained 3 votes.
+
+
+Results for HotC_blocks_2025_55 in Electoral District 42 are:
+A total of 1136 voters participated.
+A total of 1210 were elegible out of a population of 1532.
+The participation rate was 93.88%.
+Progressive Party obtained 336 votes.
+Woke Party obtained 798 votes.
+Blank votes obtained 1 votes.
+Null votes obtained 1 votes.
+
+
+Results for HotC_blocks_2025_56 in Electoral District 42 are:
+A total of 971 voters participated.
+A total of 1019 were elegible out of a population of 1351.
+The participation rate was 95.29%.
+Progressive Party obtained 366 votes.
+Woke Party obtained 602 votes.
+Blank votes obtained 3 votes.
+
+
+Results for HotC_blocks_2025_57 in Electoral District 42 are:
+A total of 846 voters participated.
+A total of 862 were elegible out of a population of 1025.
+The participation rate was 98.14%.
+Progressive Party obtained 404 votes.
+Woke Party obtained 441 votes.
+Null votes obtained 1 votes.
+
+
+Results for HotC_blocks_2025_63 in Electoral District 42 are:
+A total of 742 voters participated.
+A total of 761 were elegible out of a population of 980.
+The participation rate was 97.50%.
+Progressive Party obtained 243 votes.
+Woke Party obtained 496 votes.
+Blank votes obtained 2 votes.
+Null votes obtained 1 votes.
+
+
+Results for Electoral District 42 are:
+A total of 6231 voters participated.
+A total of 6578 were elegible out of a population of 8319.
+The participation rate was 94.72%.
+Progressive Party obtained 2450 votes and 0 seats.
+Woke Party obtained 3760 votes and 1 seats.
+Blank votes obtained 9 votes.
+Null votes obtained 12 votes.
+
+
+Results for HotC_blocks_2025_29 in Electoral District 43 are:
+A total of 942 voters participated.
+A total of 1044 were elegible out of a population of 1445.
+The participation rate was 90.23%.
+Progressive Party obtained 511 votes.
+Woke Party obtained 430 votes.
+Blank votes obtained 1 votes.
+
+
+Results for HotC_blocks_2025_38 in Electoral District 43 are:
+A total of 683 voters participated.
+A total of 714 were elegible out of a population of 976.
+The participation rate was 95.66%.
+Progressive Party obtained 402 votes.
+Woke Party obtained 276 votes.
+Blank votes obtained 2 votes.
+Null votes obtained 3 votes.
+
+
+Results for HotC_blocks_2025_39 in Electoral District 43 are:
+A total of 782 voters participated.
+A total of 822 were elegible out of a population of 1055.
+The participation rate was 95.13%.
+Progressive Party obtained 268 votes.
+Woke Party obtained 510 votes.
+Blank votes obtained 2 votes.
+Null votes obtained 2 votes.
+
+
+Results for HotC_blocks_2025_49 in Electoral District 43 are:
+A total of 1000 voters participated.
+A total of 1016 were elegible out of a population of 1441.
+The participation rate was 98.43%.
+Progressive Party obtained 420 votes.
+Woke Party obtained 576 votes.
+Blank votes obtained 2 votes.
+Null votes obtained 2 votes.
+
+
+Results for HotC_blocks_2025_50 in Electoral District 43 are:
+A total of 1076 voters participated.
+A total of 1132 were elegible out of a population of 1467.
+The participation rate was 95.05%.
+Progressive Party obtained 632 votes.
+Woke Party obtained 442 votes.
+Blank votes obtained 2 votes.
+
+
+Results for Electoral District 43 are:
+A total of 4483 voters participated.
+A total of 4728 were elegible out of a population of 6384.
+The participation rate was 94.82%.
+Progressive Party obtained 2233 votes and 0 seats.
+Woke Party obtained 2234 votes and 1 seats.
+Blank votes obtained 9 votes.
+Null votes obtained 7 votes.
+
+
+Results for HotC_blocks_2025_30 in Electoral District 44 are:
+A total of 997 voters participated.
+A total of 1038 were elegible out of a population of 1384.
+The participation rate was 96.05%.
+Progressive Party obtained 450 votes.
+Woke Party obtained 543 votes.
+Blank votes obtained 1 votes.
+Null votes obtained 3 votes.
+
+
+Results for HotC_blocks_2025_31 in Electoral District 44 are:
+A total of 883 voters participated.
+A total of 922 were elegible out of a population of 1222.
+The participation rate was 95.77%.
+Progressive Party obtained 370 votes.
+Woke Party obtained 510 votes.
+Blank votes obtained 1 votes.
+Null votes obtained 2 votes.
+
+
+Results for HotC_blocks_2025_40 in Electoral District 44 are:
+A total of 660 voters participated.
+A total of 714 were elegible out of a population of 977.
+The participation rate was 92.44%.
+Progressive Party obtained 349 votes.
+Woke Party obtained 307 votes.
+Blank votes obtained 2 votes.
+Null votes obtained 2 votes.
+
+
+Results for HotC_blocks_2025_41 in Electoral District 44 are:
+A total of 894 voters participated.
+A total of 949 were elegible out of a population of 1229.
+The participation rate was 94.20%.
+Progressive Party obtained 561 votes.
+Woke Party obtained 325 votes.
+Blank votes obtained 5 votes.
+Null votes obtained 3 votes.
+
+
+Results for HotC_blocks_2025_42 in Electoral District 44 are:
+A total of 1012 voters participated.
+A total of 1031 were elegible out of a population of 1357.
+The participation rate was 98.16%.
+Progressive Party obtained 555 votes.
+Woke Party obtained 451 votes.
+Blank votes obtained 3 votes.
+Null votes obtained 3 votes.
+
+
+Results for HotC_blocks_2025_51 in Electoral District 44 are:
+A total of 1135 voters participated.
+A total of 1193 were elegible out of a population of 1463.
+The participation rate was 95.14%.
+Progressive Party obtained 685 votes.
+Woke Party obtained 442 votes.
+Blank votes obtained 5 votes.
+Null votes obtained 3 votes.
+
+
+Results for Electoral District 44 are:
+A total of 5581 voters participated.
+A total of 5847 were elegible out of a population of 7632.
+The participation rate was 95.45%.
+Progressive Party obtained 2970 votes and 1 seats.
+Woke Party obtained 2578 votes and 0 seats.
+Blank votes obtained 17 votes.
+Null votes obtained 16 votes.
+
+
+Results for HotC_blocks_2025_24 in Electoral District 45 are:
+A total of 947 voters participated.
+A total of 1022 were elegible out of a population of 1322.
+The participation rate was 92.66%.
+Progressive Party obtained 513 votes.
+Woke Party obtained 429 votes.
+Blank votes obtained 3 votes.
+Null votes obtained 2 votes.
+
+
+Results for HotC_blocks_2025_25 in Electoral District 45 are:
+A total of 924 voters participated.
+A total of 962 were elegible out of a population of 1193.
+The participation rate was 96.05%.
+Progressive Party obtained 368 votes.
+Woke Party obtained 552 votes.
+Blank votes obtained 2 votes.
+Null votes obtained 2 votes.
+
+
+Results for HotC_blocks_2025_35 in Electoral District 45 are:
+A total of 665 voters participated.
+A total of 713 were elegible out of a population of 924.
+The participation rate was 93.27%.
+Progressive Party obtained 393 votes.
+Woke Party obtained 270 votes.
+Blank votes obtained 2 votes.
+
+
+Results for HotC_blocks_2025_36 in Electoral District 45 are:
+A total of 828 voters participated.
+A total of 878 were elegible out of a population of 1162.
+The participation rate was 94.31%.
+Progressive Party obtained 467 votes.
+Woke Party obtained 354 votes.
+Blank votes obtained 4 votes.
+Null votes obtained 3 votes.
+
+
+Results for HotC_blocks_2025_37 in Electoral District 45 are:
+A total of 923 voters participated.
+A total of 962 were elegible out of a population of 1184.
+The participation rate was 95.95%.
+Progressive Party obtained 516 votes.
+Woke Party obtained 404 votes.
+Blank votes obtained 1 votes.
+Null votes obtained 2 votes.
+
+
+Results for HotC_blocks_2025_47 in Electoral District 45 are:
+A total of 791 voters participated.
+A total of 867 were elegible out of a population of 1063.
+The participation rate was 91.23%.
+Progressive Party obtained 401 votes.
+Woke Party obtained 386 votes.
+Blank votes obtained 1 votes.
+Null votes obtained 3 votes.
+
+
+Results for HotC_blocks_2025_48 in Electoral District 45 are:
+A total of 915 voters participated.
+A total of 1002 were elegible out of a population of 1304.
+The participation rate was 91.32%.
+Progressive Party obtained 492 votes.
+Woke Party obtained 418 votes.
+Blank votes obtained 3 votes.
+Null votes obtained 2 votes.
+
+
+Results for Electoral District 45 are:
+A total of 5993 voters participated.
+A total of 6406 were elegible out of a population of 8152.
+The participation rate was 93.55%.
+Progressive Party obtained 3150 votes and 1 seats.
+Woke Party obtained 2813 votes and 0 seats.
+Blank votes obtained 16 votes.
+Null votes obtained 14 votes.
+
+
+Results for HotC_blocks_2025_20 in Electoral District 46 are:
+A total of 886 voters participated.
+A total of 914 were elegible out of a population of 1077.
+The participation rate was 96.94%.
+Progressive Party obtained 501 votes.
+Woke Party obtained 381 votes.
+Blank votes obtained 1 votes.
+Null votes obtained 3 votes.
+
+
+Results for HotC_blocks_2025_21 in Electoral District 46 are:
+A total of 941 voters participated.
+A total of 976 were elegible out of a population of 1160.
+The participation rate was 96.41%.
+Progressive Party obtained 561 votes.
+Woke Party obtained 374 votes.
+Blank votes obtained 4 votes.
+Null votes obtained 2 votes.
+
+
+Results for HotC_blocks_2025_32 in Electoral District 46 are:
+A total of 1081 voters participated.
+A total of 1151 were elegible out of a population of 1441.
+The participation rate was 93.92%.
+Progressive Party obtained 530 votes.
+Woke Party obtained 547 votes.
+Blank votes obtained 3 votes.
+Null votes obtained 1 votes.
+
+
+Results for HotC_blocks_2025_33 in Electoral District 46 are:
+A total of 1039 voters participated.
+A total of 1153 were elegible out of a population of 1541.
+The participation rate was 90.11%.
+Progressive Party obtained 604 votes.
+Woke Party obtained 430 votes.
+Blank votes obtained 2 votes.
+Null votes obtained 3 votes.
+
+
+Results for HotC_blocks_2025_34 in Electoral District 46 are:
+A total of 1154 voters participated.
+A total of 1210 were elegible out of a population of 1509.
+The participation rate was 95.37%.
+Progressive Party obtained 708 votes.
+Woke Party obtained 444 votes.
+Blank votes obtained 2 votes.
+
+
+Results for HotC_blocks_2025_44 in Electoral District 46 are:
+A total of 1076 voters participated.
+A total of 1109 were elegible out of a population of 1412.
+The participation rate was 97.02%.
+Progressive Party obtained 629 votes.
+Woke Party obtained 442 votes.
+Blank votes obtained 3 votes.
+Null votes obtained 2 votes.
+
+
+Results for Electoral District 46 are:
+A total of 6177 voters participated.
+A total of 6513 were elegible out of a population of 8140.
+The participation rate was 94.84%.
+Progressive Party obtained 3533 votes and 1 seats.
+Woke Party obtained 2618 votes and 0 seats.
+Blank votes obtained 15 votes.
+Null votes obtained 11 votes.
+
+
+Results for HotC_blocks_2025_13 in Electoral District 47 are:
+A total of 964 voters participated.
+A total of 1007 were elegible out of a population of 1358.
+The participation rate was 95.73%.
+Progressive Party obtained 550 votes.
+Woke Party obtained 410 votes.
+Blank votes obtained 2 votes.
+Null votes obtained 2 votes.
+
+
+Results for HotC_blocks_2025_14 in Electoral District 47 are:
+A total of 762 voters participated.
+A total of 786 were elegible out of a population of 1059.
+The participation rate was 96.95%.
+Progressive Party obtained 351 votes.
+Woke Party obtained 409 votes.
+Blank votes obtained 1 votes.
+Null votes obtained 1 votes.
+
+
+Results for HotC_blocks_2025_15 in Electoral District 47 are:
+A total of 817 voters participated.
+A total of 889 were elegible out of a population of 1174.
+The participation rate was 91.90%.
+Progressive Party obtained 458 votes.
+Woke Party obtained 354 votes.
+Blank votes obtained 2 votes.
+Null votes obtained 3 votes.
+
+
+Results for HotC_blocks_2025_16 in Electoral District 47 are:
+A total of 946 voters participated.
+A total of 983 were elegible out of a population of 1358.
+The participation rate was 96.24%.
+Progressive Party obtained 534 votes.
+Woke Party obtained 409 votes.
+Blank votes obtained 2 votes.
+Null votes obtained 1 votes.
+
+
+Results for HotC_blocks_2025_27 in Electoral District 47 are:
+A total of 866 voters participated.
+A total of 961 were elegible out of a population of 1257.
+The participation rate was 90.11%.
+Progressive Party obtained 447 votes.
+Woke Party obtained 416 votes.
+Blank votes obtained 3 votes.
+
+
+Results for HotC_blocks_2025_28 in Electoral District 47 are:
+A total of 976 voters participated.
+A total of 1072 were elegible out of a population of 1322.
+The participation rate was 91.04%.
+Progressive Party obtained 522 votes.
+Woke Party obtained 452 votes.
+Null votes obtained 2 votes.
+
+
+Results for Electoral District 47 are:
+A total of 5331 voters participated.
+A total of 5698 were elegible out of a population of 7528.
+The participation rate was 93.56%.
+Progressive Party obtained 2862 votes and 1 seats.
+Woke Party obtained 2450 votes and 0 seats.
+Blank votes obtained 10 votes.
+Null votes obtained 9 votes.
+
+
+Results for HotC_blocks_2025_1 in Electoral District 48 are:
+A total of 920 voters participated.
+A total of 950 were elegible out of a population of 1192.
+The participation rate was 96.84%.
+Progressive Party obtained 417 votes.
+Woke Party obtained 502 votes.
+Null votes obtained 1 votes.
+
+
+Results for HotC_blocks_2025_10 in Electoral District 48 are:
+A total of 806 voters participated.
+A total of 854 were elegible out of a population of 1138.
+The participation rate was 94.38%.
+Progressive Party obtained 435 votes.
+Woke Party obtained 370 votes.
+Blank votes obtained 1 votes.
+
+
+Results for HotC_blocks_2025_11 in Electoral District 48 are:
+A total of 950 voters participated.
+A total of 1032 were elegible out of a population of 1286.
+The participation rate was 92.05%.
+Progressive Party obtained 353 votes.
+Woke Party obtained 596 votes.
+Blank votes obtained 1 votes.
+
+
+Results for HotC_blocks_2025_12 in Electoral District 48 are:
+A total of 640 voters participated.
+A total of 671 were elegible out of a population of 933.
+The participation rate was 95.38%.
+Progressive Party obtained 194 votes.
+Woke Party obtained 446 votes.
+
+
+Results for HotC_blocks_2025_26 in Electoral District 48 are:
+A total of 786 voters participated.
+A total of 805 were elegible out of a population of 1020.
+The participation rate was 97.64%.
+Progressive Party obtained 247 votes.
+Woke Party obtained 538 votes.
+Null votes obtained 1 votes.
+
+
+Results for HotC_blocks_2025_8 in Electoral District 48 are:
+A total of 896 voters participated.
+A total of 918 were elegible out of a population of 1267.
+The participation rate was 97.60%.
+Progressive Party obtained 427 votes.
+Woke Party obtained 468 votes.
+Null votes obtained 1 votes.
+
+
+Results for HotC_blocks_2025_9 in Electoral District 48 are:
+A total of 848 voters participated.
+A total of 914 were elegible out of a population of 1179.
+The participation rate was 92.78%.
+Progressive Party obtained 441 votes.
+Woke Party obtained 402 votes.
+Blank votes obtained 4 votes.
+Null votes obtained 1 votes.
+
+
+Results for Electoral District 48 are:
+A total of 5846 voters participated.
+A total of 6144 were elegible out of a population of 8015.
+The participation rate was 95.15%.
+Progressive Party obtained 2514 votes and 0 seats.
+Woke Party obtained 3322 votes and 1 seats.
+Blank votes obtained 6 votes.
+Null votes obtained 4 votes.
+
+
+Results for HotC_blocks_2025_17 in Electoral District 49 are:
+A total of 1163 voters participated.
+A total of 1215 were elegible out of a population of 1517.
+The participation rate was 95.72%.
+Progressive Party obtained 522 votes.
+Woke Party obtained 639 votes.
+Blank votes obtained 2 votes.
+
+
+Results for HotC_blocks_2025_18 in Electoral District 49 are:
+A total of 1132 voters participated.
+A total of 1144 were elegible out of a population of 1500.
+The participation rate was 98.95%.
+Progressive Party obtained 567 votes.
+Woke Party obtained 561 votes.
+Blank votes obtained 2 votes.
+Null votes obtained 2 votes.
+
+
+Results for HotC_blocks_2025_19 in Electoral District 49 are:
+A total of 1043 voters participated.
+A total of 1086 were elegible out of a population of 1381.
+The participation rate was 96.04%.
+Progressive Party obtained 430 votes.
+Woke Party obtained 609 votes.
+Blank votes obtained 2 votes.
+Null votes obtained 2 votes.
+
+
+Results for HotC_blocks_2025_22 in Electoral District 49 are:
+A total of 886 voters participated.
+A total of 936 were elegible out of a population of 1158.
+The participation rate was 94.66%.
+Progressive Party obtained 461 votes.
+Woke Party obtained 420 votes.
+Blank votes obtained 3 votes.
+Null votes obtained 2 votes.
+
+
+Results for HotC_blocks_2025_23 in Electoral District 49 are:
+A total of 913 voters participated.
+A total of 986 were elegible out of a population of 1327.
+The participation rate was 92.60%.
+Progressive Party obtained 364 votes.
+Woke Party obtained 544 votes.
+Blank votes obtained 3 votes.
+Null votes obtained 2 votes.
+
+
+Results for Electoral District 49 are:
+A total of 5137 voters participated.
+A total of 5367 were elegible out of a population of 6883.
+The participation rate was 95.71%.
+Progressive Party obtained 2344 votes and 0 seats.
+Woke Party obtained 2773 votes and 1 seats.
+Blank votes obtained 12 votes.
+Null votes obtained 8 votes.
+
+
+Results for HotC_blocks_2025_2 in Electoral District 50 are:
+A total of 966 voters participated.
+A total of 1059 were elegible out of a population of 1309.
+The participation rate was 91.22%.
+Progressive Party obtained 482 votes.
+Woke Party obtained 481 votes.
+Blank votes obtained 2 votes.
+Null votes obtained 1 votes.
+
+
+Results for HotC_blocks_2025_3 in Electoral District 50 are:
+A total of 1041 voters participated.
+A total of 1091 were elegible out of a population of 1534.
+The participation rate was 95.42%.
+Progressive Party obtained 568 votes.
+Woke Party obtained 469 votes.
+Blank votes obtained 2 votes.
+Null votes obtained 2 votes.
+
+
+Results for HotC_blocks_2025_4 in Electoral District 50 are:
+A total of 922 voters participated.
+A total of 980 were elegible out of a population of 1295.
+The participation rate was 94.08%.
+Progressive Party obtained 486 votes.
+Woke Party obtained 432 votes.
+Blank votes obtained 2 votes.
+Null votes obtained 2 votes.
+
+
+Results for HotC_blocks_2025_5 in Electoral District 50 are:
+A total of 1101 voters participated.
+A total of 1151 were elegible out of a population of 1394.
+The participation rate was 95.66%.
+Progressive Party obtained 621 votes.
+Woke Party obtained 477 votes.
+Blank votes obtained 1 votes.
+Null votes obtained 2 votes.
+
+
+Results for HotC_blocks_2025_6 in Electoral District 50 are:
+A total of 717 voters participated.
+A total of 749 were elegible out of a population of 943.
+The participation rate was 95.73%.
+Progressive Party obtained 430 votes.
+Woke Party obtained 282 votes.
+Blank votes obtained 3 votes.
+Null votes obtained 2 votes.
+
+
+Results for HotC_blocks_2025_7 in Electoral District 50 are:
+A total of 755 voters participated.
+A total of 816 were elegible out of a population of 1097.
+The participation rate was 92.52%.
+Progressive Party obtained 382 votes.
+Woke Party obtained 366 votes.
+Blank votes obtained 5 votes.
+Null votes obtained 2 votes.
+
+
+Results for Electoral District 50 are:
+A total of 5502 voters participated.
+A total of 5846 were elegible out of a population of 7572.
+The participation rate was 94.12%.
+Progressive Party obtained 2969 votes and 1 seats.
+Woke Party obtained 2507 votes and 0 seats.
+Blank votes obtained 15 votes.
+Null votes obtained 11 votes.
+
+
+Results for Chofle are:
+A total of 288237 voters participated.
+A total of 304921 were elegible out of a population of 391966.
+The participation rate was 94.53%.
+Progressive Party obtained 141743 votes and 25 seats.
+Woke Party obtained 145420 votes and 25 seats.
+Blank votes obtained 540 votes.
+Null votes obtained 534 votes.
