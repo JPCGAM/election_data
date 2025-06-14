@@ -1,0 +1,272 @@
+Elections in New Jersey:
+ With 5 parties, 3 electoral districts, 5 ideologies and 47 seats.
+
+Performing MMP in microregion NewJersey_PD_1:
+Putalweanose Alliance obtained 93 votes and 1 seats.
+Pro-Pony Party obtained 34 votes and 0 seats.
+Independents obtained 37 votes and 0 seats.
+
+
+Results for NewJersey_PD_1 in MidTown are:
+A total of 167 voters participated.
+A total of 361 were elegible out of a population of 464.
+The participation rate was 46.26%.
+Putalweanose Alliance obtained 93 votes.
+Pro-Pony Party obtained 43 votes.
+Independents obtained 29 votes.
+Blank votes obtained 1 votes.
+Null votes obtained 1 votes.
+
+Performing MMP in microregion NewJersey_PD_2:
+Putalweanose Alliance obtained 298 votes and 1 seats.
+Pro-Pony Party obtained 132 votes and 0 seats.
+Independents obtained 121 votes and 0 seats.
+
+
+Results for NewJersey_PD_2 in MidTown are:
+A total of 557 voters participated.
+A total of 1198 were elegible out of a population of 1506.
+The participation rate was 46.49%.
+Putalweanose Alliance obtained 291 votes.
+Pro-Pony Party obtained 139 votes.
+Independents obtained 117 votes.
+Blank votes obtained 6 votes.
+Null votes obtained 4 votes.
+
+Performing MMP in microregion NewJersey_PD_3:
+Putalweanose Alliance obtained 245 votes and 1 seats.
+Pro-Pony Party obtained 111 votes and 0 seats.
+Independents obtained 100 votes and 0 seats.
+
+
+Results for NewJersey_PD_3 in MidTown are:
+A total of 457 voters participated.
+A total of 1031 were elegible out of a population of 1533.
+The participation rate was 44.33%.
+Putalweanose Alliance obtained 264 votes.
+Pro-Pony Party obtained 98 votes.
+Independents obtained 88 votes.
+Blank votes obtained 2 votes.
+Null votes obtained 5 votes.
+
+Performing MMP in microregion NewJersey_PD_4:
+Putalweanose Alliance obtained 200 votes and 1 seats.
+Pro-Pony Party obtained 68 votes and 0 seats.
+Independents obtained 52 votes and 0 seats.
+
+
+Results for NewJersey_PD_4 in MidTown are:
+A total of 323 voters participated.
+A total of 667 were elegible out of a population of 1004.
+The participation rate was 48.43%.
+Putalweanose Alliance obtained 188 votes.
+Pro-Pony Party obtained 54 votes.
+Independents obtained 76 votes.
+Blank votes obtained 3 votes.
+Null votes obtained 2 votes.
+
+Performing MMP in microregion NewJersey_PD_5:
+Putalweanose Alliance obtained 280 votes and 1 seats.
+Pro-Pony Party obtained 178 votes and 0 seats.
+Independents obtained 196 votes and 0 seats.
+
+
+Results for NewJersey_PD_5 in MidTown are:
+A total of 661 voters participated.
+A total of 1412 were elegible out of a population of 1869.
+The participation rate was 46.81%.
+Putalweanose Alliance obtained 300 votes.
+Pro-Pony Party obtained 173 votes.
+Independents obtained 177 votes.
+Blank votes obtained 5 votes.
+Null votes obtained 6 votes.
+
+Performing MMP in microregion NewJersey_PD_6:
+Putalweanose Alliance obtained 295 votes and 1 seats.
+Pro-Pony Party obtained 121 votes and 0 seats.
+Independents obtained 111 votes and 0 seats.
+
+
+Results for NewJersey_PD_6 in MidTown are:
+A total of 532 voters participated.
+A total of 1102 were elegible out of a population of 1557.
+The participation rate was 48.28%.
+Putalweanose Alliance obtained 292 votes.
+Pro-Pony Party obtained 105 votes.
+Independents obtained 130 votes.
+Blank votes obtained 3 votes.
+Null votes obtained 2 votes.
+
+Performing MMP in microregion NewJersey_PD_7:
+Putalweanose Alliance obtained 111 votes and 1 seats.
+Pro-Pony Party obtained 61 votes and 0 seats.
+Independents obtained 48 votes and 0 seats.
+
+
+Results for NewJersey_PD_7 in MidTown are:
+A total of 223 voters participated.
+A total of 489 were elegible out of a population of 720.
+The participation rate was 45.60%.
+Putalweanose Alliance obtained 101 votes.
+Pro-Pony Party obtained 75 votes.
+Independents obtained 46 votes.
+Null votes obtained 1 votes.
+
+
+Results for MidTown are:
+A total of 2920 voters participated.
+A total of 6260 were elegible out of a population of 8653.
+The participation rate was 46.65%.
+Putalweanose Alliance obtained 1529 votes and 18 seats.
+Pro-Pony Party obtained 687 votes and 5 seats.
+Independents obtained 663 votes and 4 seats.
+Blank votes obtained 20 votes.
+Null votes obtained 21 votes.
+
+Performing MMP in microregion NewJersey_PD_8:
+Putalweanose Alliance obtained 320 votes and 1 seats.
+Pro-Pony Party obtained 110 votes and 0 seats.
+Independents obtained 83 votes and 0 seats.
+
+
+Results for NewJersey_PD_8 in Uniland are:
+A total of 517 voters participated.
+A total of 1042 were elegible out of a population of 1252.
+The participation rate was 49.62%.
+Putalweanose Alliance obtained 300 votes.
+Pro-Pony Party obtained 100 votes.
+Independents obtained 112 votes.
+Blank votes obtained 3 votes.
+Null votes obtained 2 votes.
+
+Performing MMP in microregion NewJersey_PD_9:
+Putalweanose Alliance obtained 412 votes and 1 seats.
+Pro-Pony Party obtained 233 votes and 0 seats.
+Independents obtained 210 votes and 0 seats.
+
+
+Results for NewJersey_PD_9 in Uniland are:
+A total of 866 voters participated.
+A total of 1748 were elegible out of a population of 2316.
+The participation rate was 49.54%.
+Putalweanose Alliance obtained 438 votes.
+Pro-Pony Party obtained 233 votes.
+Independents obtained 186 votes.
+Blank votes obtained 5 votes.
+Null votes obtained 4 votes.
+
+Performing MMP in microregion NewJersey_PD_10:
+Putalweanose Alliance obtained 404 votes and 1 seats.
+Pro-Pony Party obtained 163 votes and 0 seats.
+Independents obtained 141 votes and 0 seats.
+
+
+Results for NewJersey_PD_10 in Uniland are:
+A total of 714 voters participated.
+A total of 1537 were elegible out of a population of 2165.
+The participation rate was 46.45%.
+Putalweanose Alliance obtained 409 votes.
+Pro-Pony Party obtained 166 votes.
+Independents obtained 131 votes.
+Blank votes obtained 6 votes.
+Null votes obtained 2 votes.
+
+
+Results for Uniland are:
+A total of 2097 voters participated.
+A total of 4327 were elegible out of a population of 5733.
+The participation rate was 48.46%.
+Putalweanose Alliance obtained 1147 votes and 11 seats.
+Pro-Pony Party obtained 499 votes and 3 seats.
+Independents obtained 429 votes and 2 seats.
+Blank votes obtained 14 votes.
+Null votes obtained 8 votes.
+
+Performing MMP in microregion NewJersey_PD_11:
+Putalweanose Alliance obtained 154 votes and 1 seats.
+Pro-Pony Party obtained 48 votes and 0 seats.
+Independents obtained 53 votes and 0 seats.
+
+
+Results for NewJersey_PD_11 in The Military Complex are:
+A total of 260 voters participated.
+A total of 534 were elegible out of a population of 731.
+The participation rate was 48.69%.
+Putalweanose Alliance obtained 156 votes.
+Pro-Pony Party obtained 52 votes.
+Independents obtained 50 votes.
+Blank votes obtained 2 votes.
+
+Performing MMP in microregion NewJersey_PD_12:
+Putalweanose Alliance obtained 263 votes and 1 seats.
+Pro-Pony Party obtained 87 votes and 0 seats.
+Independents obtained 110 votes and 0 seats.
+
+
+Results for NewJersey_PD_12 in The Military Complex are:
+A total of 462 voters participated.
+A total of 987 were elegible out of a population of 1255.
+The participation rate was 46.81%.
+Putalweanose Alliance obtained 273 votes.
+Pro-Pony Party obtained 81 votes.
+Independents obtained 105 votes.
+Blank votes obtained 3 votes.
+
+Performing MMP in microregion NewJersey_PD_13:
+Putalweanose Alliance obtained 513 votes and 1 seats.
+Pro-Pony Party obtained 134 votes and 0 seats.
+Independents obtained 145 votes and 0 seats.
+
+
+Results for NewJersey_PD_13 in The Military Complex are:
+A total of 801 voters participated.
+A total of 1715 were elegible out of a population of 2256.
+The participation rate was 46.71%.
+Putalweanose Alliance obtained 494 votes.
+Pro-Pony Party obtained 143 votes.
+Independents obtained 151 votes.
+Blank votes obtained 5 votes.
+Null votes obtained 8 votes.
+
+Performing MMP in microregion NewJersey_PD_14:
+Putalweanose Alliance obtained 447 votes and 1 seats.
+Pro-Pony Party obtained 93 votes and 0 seats.
+Independents obtained 89 votes and 0 seats.
+
+
+Results for NewJersey_PD_14 in The Military Complex are:
+A total of 637 voters participated.
+A total of 1355 were elegible out of a population of 1953.
+The participation rate was 47.01%.
+Putalweanose Alliance obtained 450 votes.
+Pro-Pony Party obtained 95 votes.
+Independents obtained 86 votes.
+Blank votes obtained 4 votes.
+Null votes obtained 2 votes.
+
+
+Results for The Military Complex are:
+A total of 2160 voters participated.
+A total of 4591 were elegible out of a population of 6195.
+The participation rate was 47.05%.
+Putalweanose Alliance obtained 1373 votes and 14 seats.
+Pro-Pony Party obtained 371 votes and 2 seats.
+Independents obtained 392 votes and 2 seats.
+Blank votes obtained 14 votes.
+Null votes obtained 10 votes.
+
+
+Results for New Jersey are:
+A total of 7177 voters participated.
+A total of 15178 were elegible out of a population of 20581.
+The participation rate was 47.29%.
+Putalweanose Alliance obtained 4049 votes and 43 seats.
+[MMP] Putalweanose Alliance obtained 4035 votes and 14 seats.
+Pro-Pony Party obtained 1557 votes and 10 seats.
+[MMP] Pro-Pony Party obtained 1573 votes and 0 seats.
+Independents obtained 1484 votes and 8 seats.
+[MMP] Independents obtained 1496 votes and 0 seats.
+Blank votes obtained 48 votes.
+[MMP] Blank votes obtained 29 votes.
+Null votes obtained 39 votes.
+[MMP] Null votes obtained 44 votes.

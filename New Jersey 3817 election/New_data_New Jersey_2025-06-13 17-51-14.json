@@ -1,0 +1,1263 @@
+{
+   "jurisdiction": {
+      "name": "New Jersey",
+      "population": 20581,
+      "seats": 61,
+      "regions": 3,
+      "parties": 3,
+      "ideologies": 5,
+      "party_opinions": {
+         "0": 7.0,
+         "1": 4.0,
+         "2": 2.0
+      },
+      "party_mainstream": {
+         "0": 7.0,
+         "1": 5.0,
+         "2": 2.0
+      },
+      "extra_modifier": {},
+      "seed": 1749833472
+   },
+   "parties": [
+      {
+         "name": "Putalweanose Alliance"
+      },
+      {
+         "name": "Pro-Pony Party"
+      },
+      {
+         "name": "Independents"
+      }
+   ],
+   "ideologies": [
+      "Economic",
+      "Social",
+      "State Power",
+      "Military",
+      "Pony Rights"
+   ],
+   "party_ideologies": [
+      [
+         0.35,
+         0.45,
+         0.9,
+         0.95,
+         0.6
+      ],
+      [
+         0.2,
+         0.1,
+         0.4,
+         0.2,
+         1.0
+      ],
+      [
+         0.45,
+         0.5,
+         0.5,
+         0.4,
+         0.55
+      ]
+   ],
+   "electoral_districts": [
+      {
+         "name": "MidTown",
+         "population": 8653,
+         "seats": 20.0,
+         "polling_districts": 7,
+         "extra_seats_percentage": 0,
+         "threshold": 0.05,
+         "party_opinions": {
+            "0": 5.99,
+            "1": 3.49,
+            "2": 2.18
+         },
+         "party_mainstream": {
+            "0": 6.09,
+            "1": 5.1,
+            "2": 2.11
+         },
+         "extra_modifier": {},
+         "regional_party_ideologies": {
+            "0": [
+               0.35,
+               0.45,
+               0.9,
+               0.95,
+               0.6
+            ],
+            "1": [
+               0.2,
+               0.1,
+               0.4,
+               0.2,
+               1.0
+            ],
+            "2": [
+               0.45,
+               0.5,
+               0.5,
+               0.4,
+               0.55
+            ]
+         },
+         "election_method": "D'Hondt",
+         "extra_settings": {}
+      },
+      {
+         "name": "Uniland",
+         "population": 5733,
+         "seats": 13.0,
+         "polling_districts": 3,
+         "extra_seats_percentage": 0,
+         "threshold": 0.05,
+         "party_opinions": {
+            "0": 8.74,
+            "1": 3.55,
+            "2": 2.41
+         },
+         "party_mainstream": {
+            "0": 7.08,
+            "1": 5.97,
+            "2": 1.89
+         },
+         "extra_modifier": {},
+         "regional_party_ideologies": {
+            "0": [
+               0.35,
+               0.45,
+               0.9,
+               0.95,
+               0.6
+            ],
+            "1": [
+               0.2,
+               0.1,
+               0.4,
+               0.2,
+               1.0
+            ],
+            "2": [
+               0.45,
+               0.5,
+               0.5,
+               0.4,
+               0.55
+            ]
+         },
+         "election_method": "D'Hondt",
+         "extra_settings": {}
+      },
+      {
+         "name": "The Military Complex",
+         "population": 6195,
+         "seats": 14.0,
+         "polling_districts": 4,
+         "extra_seats_percentage": 0,
+         "threshold": 0.05,
+         "party_opinions": {
+            "0": 6.67,
+            "1": 3.5,
+            "2": 2.44
+         },
+         "party_mainstream": {
+            "0": 8.54,
+            "1": 4.82,
+            "2": 2.14
+         },
+         "extra_modifier": {},
+         "regional_party_ideologies": {
+            "0": [
+               0.35,
+               0.45,
+               0.9,
+               0.95,
+               0.6
+            ],
+            "1": [
+               0.2,
+               0.1,
+               0.4,
+               0.2,
+               1.0
+            ],
+            "2": [
+               0.45,
+               0.5,
+               0.5,
+               0.4,
+               0.55
+            ]
+         },
+         "election_method": "D'Hondt",
+         "extra_settings": {}
+      }
+   ],
+   "polling_districts": [
+      {
+         "name": "NewJersey_PD_1",
+         "population": 464,
+         "seats": 0,
+         "region": "MidTown",
+         "microregion": "NewJersey_PD_1",
+         "participation_rate": 0.4626038781163435,
+         "elegibility": 0.769598,
+         "ideology_median": {
+            "Economic": 0.467,
+            "Social": 0.512,
+            "State Power": 0.499,
+            "Military": 0.501,
+            "Pony Rights": 0.568
+         },
+         "ideology_deviation": {
+            "Economic": 0.091,
+            "Social": 0.092,
+            "State Power": 0.068,
+            "Military": 0.074,
+            "Pony Rights": 0.1
+         },
+         "regional_party_ideologies": {
+            "0": [
+               0.378,
+               0.406,
+               1,
+               0.774,
+               0.587
+            ],
+            "1": [
+               0.158,
+               0.122,
+               0.485,
+               0.182,
+               1
+            ],
+            "2": [
+               0.377,
+               0.498,
+               0.491,
+               0.321,
+               0.566
+            ]
+         },
+         "party_opinions": {
+            "0": 8.404,
+            "1": 3.842,
+            "2": 2.081
+         },
+         "party_mainstream": {
+            "0": 6.748,
+            "1": 5.596,
+            "2": 2.098
+         },
+         "override_votes": "",
+         "weights": {
+            "Happiness": 0.5,
+            "Mainstreamness": 0.5
+         },
+         "extra_modifier": {},
+         "extra_weights": {},
+         "regional_weight": [
+            5.18,
+            2.92,
+            2.04
+         ],
+         "ideology_priority": [
+            0.2,
+            0.22,
+            0.2,
+            0.2,
+            0.22
+         ],
+         "extra_data": ""
+      },
+      {
+         "name": "NewJersey_PD_2",
+         "population": 1506,
+         "seats": 0,
+         "region": "MidTown",
+         "microregion": "NewJersey_PD_2",
+         "participation_rate": 0.46494156928213687,
+         "elegibility": 0.759,
+         "ideology_median": {
+            "Economic": 0.437,
+            "Social": 0.46,
+            "State Power": 0.482,
+            "Military": 0.47,
+            "Pony Rights": 0.633
+         },
+         "ideology_deviation": {
+            "Economic": 0.097,
+            "Social": 0.099,
+            "State Power": 0.085,
+            "Military": 0.075,
+            "Pony Rights": 0.091
+         },
+         "regional_party_ideologies": {
+            "0": [
+               0.265,
+               0.543,
+               1,
+               0.741,
+               0.584
+            ],
+            "1": [
+               0.235,
+               0.079,
+               0.445,
+               0.173,
+               0.903
+            ],
+            "2": [
+               0.559,
+               0.599,
+               0.542,
+               0.408,
+               0.527
+            ]
+         },
+         "party_opinions": {
+            "0": 8.223,
+            "1": 4.249,
+            "2": 2.06
+         },
+         "party_mainstream": {
+            "0": 7.132,
+            "1": 4.449,
+            "2": 1.885
+         },
+         "override_votes": "",
+         "weights": {
+            "Happiness": 0.5,
+            "Mainstreamness": 0.5
+         },
+         "extra_modifier": {},
+         "extra_weights": {},
+         "regional_weight": [
+            5.23,
+            3.05,
+            1.98
+         ],
+         "ideology_priority": [
+            0.23,
+            0.21,
+            0.23,
+            0.17,
+            0.18
+         ],
+         "extra_data": ""
+      },
+      {
+         "name": "NewJersey_PD_3",
+         "population": 1533,
+         "seats": 0,
+         "region": "MidTown",
+         "microregion": "NewJersey_PD_3",
+         "participation_rate": 0.44325897187196894,
+         "elegibility": 0.697127,
+         "ideology_median": {
+            "Economic": 0.469,
+            "Social": 0.513,
+            "State Power": 0.498,
+            "Military": 0.498,
+            "Pony Rights": 0.566
+         },
+         "ideology_deviation": {
+            "Economic": 0.092,
+            "Social": 0.093,
+            "State Power": 0.072,
+            "Military": 0.079,
+            "Pony Rights": 0.102
+         },
+         "regional_party_ideologies": {
+            "0": [
+               0.322,
+               0.538,
+               1,
+               0.785,
+               0.652
+            ],
+            "1": [
+               0.153,
+               0.093,
+               0.372,
+               0.175,
+               0.89
+            ],
+            "2": [
+               0.535,
+               0.459,
+               0.379,
+               0.378,
+               0.653
+            ]
+         },
+         "party_opinions": {
+            "0": 8.484,
+            "1": 4.278,
+            "2": 1.95
+         },
+         "party_mainstream": {
+            "0": 6.252,
+            "1": 5.201,
+            "2": 2.01
+         },
+         "override_votes": "",
+         "weights": {
+            "Happiness": 0.5,
+            "Mainstreamness": 0.5
+         },
+         "extra_modifier": {},
+         "extra_weights": {},
+         "regional_weight": [
+            4.91,
+            3.15,
+            2.07
+         ],
+         "ideology_priority": [
+            0.24,
+            0.17,
+            0.17,
+            0.23,
+            0.19
+         ],
+         "extra_data": ""
+      },
+      {
+         "name": "NewJersey_PD_4",
+         "population": 1004,
+         "seats": 0,
+         "region": "MidTown",
+         "microregion": "NewJersey_PD_4",
+         "participation_rate": 0.48425787106446777,
+         "elegibility": 0.681727,
+         "ideology_median": {
+            "Economic": 0.464,
+            "Social": 0.503,
+            "State Power": 0.499,
+            "Military": 0.5,
+            "Pony Rights": 0.57
+         },
+         "ideology_deviation": {
+            "Economic": 0.093,
+            "Social": 0.094,
+            "State Power": 0.068,
+            "Military": 0.068,
+            "Pony Rights": 0.095
+         },
+         "regional_party_ideologies": {
+            "0": [
+               0.302,
+               0.401,
+               0.762,
+               1,
+               0.732
+            ],
+            "1": [
+               0.189,
+               0.103,
+               0.37,
+               0.203,
+               0.782
+            ],
+            "2": [
+               0.398,
+               0.442,
+               0.437,
+               0.341,
+               0.54
+            ]
+         },
+         "party_opinions": {
+            "0": 9.11,
+            "1": 4.31,
+            "2": 2.234
+         },
+         "party_mainstream": {
+            "0": 7.315,
+            "1": 4.871,
+            "2": 1.919
+         },
+         "override_votes": "",
+         "weights": {
+            "Happiness": 0.5,
+            "Mainstreamness": 0.5
+         },
+         "extra_modifier": {},
+         "extra_weights": {},
+         "regional_weight": [
+            5.01,
+            3.09,
+            1.91
+         ],
+         "ideology_priority": [
+            0.22,
+            0.2,
+            0.17,
+            0.22,
+            0.22
+         ],
+         "extra_data": ""
+      },
+      {
+         "name": "NewJersey_PD_5",
+         "population": 1869,
+         "seats": 0,
+         "region": "MidTown",
+         "microregion": "NewJersey_PD_5",
+         "participation_rate": 0.4681303116147309,
+         "elegibility": 0.762818,
+         "ideology_median": {
+            "Economic": 0.457,
+            "Social": 0.487,
+            "State Power": 0.495,
+            "Military": 0.487,
+            "Pony Rights": 0.596
+         },
+         "ideology_deviation": {
+            "Economic": 0.092,
+            "Social": 0.093,
+            "State Power": 0.072,
+            "Military": 0.072,
+            "Pony Rights": 0.091
+         },
+         "regional_party_ideologies": {
+            "0": [
+               0.384,
+               0.501,
+               0.995,
+               1,
+               0.718
+            ],
+            "1": [
+               0.221,
+               0.077,
+               0.381,
+               0.182,
+               1
+            ],
+            "2": [
+               0.561,
+               0.409,
+               0.52,
+               0.48,
+               0.497
+            ]
+         },
+         "party_opinions": {
+            "0": 7.957,
+            "1": 4.63,
+            "2": 2.08
+         },
+         "party_mainstream": {
+            "0": 6.544,
+            "1": 5.125,
+            "2": 2.073
+         },
+         "override_votes": "",
+         "weights": {
+            "Happiness": 0.5,
+            "Mainstreamness": 0.5
+         },
+         "extra_modifier": {},
+         "extra_weights": {},
+         "regional_weight": [
+            5.15,
+            3.04,
+            2.06
+         ],
+         "ideology_priority": [
+            0.22,
+            0.21,
+            0.19,
+            0.2,
+            0.17
+         ],
+         "extra_data": ""
+      },
+      {
+         "name": "NewJersey_PD_6",
+         "population": 1557,
+         "seats": 0,
+         "region": "MidTown",
+         "microregion": "NewJersey_PD_6",
+         "participation_rate": 0.4827586206896552,
+         "elegibility": 0.680197,
+         "ideology_median": {
+            "Economic": 0.463,
+            "Social": 0.496,
+            "State Power": 0.493,
+            "Military": 0.486,
+            "Pony Rights": 0.58
+         },
+         "ideology_deviation": {
+            "Economic": 0.094,
+            "Social": 0.096,
+            "State Power": 0.071,
+            "Military": 0.075,
+            "Pony Rights": 0.096
+         },
+         "regional_party_ideologies": {
+            "0": [
+               0.337,
+               0.551,
+               0.746,
+               0.896,
+               0.452
+            ],
+            "1": [
+               0.196,
+               0.098,
+               0.484,
+               0.167,
+               0.789
+            ],
+            "2": [
+               0.495,
+               0.481,
+               0.47,
+               0.404,
+               0.461
+            ]
+         },
+         "party_opinions": {
+            "0": 8.17,
+            "1": 4.407,
+            "2": 2.258
+         },
+         "party_mainstream": {
+            "0": 7.584,
+            "1": 4.753,
+            "2": 2.202
+         },
+         "override_votes": "",
+         "weights": {
+            "Happiness": 0.5,
+            "Mainstreamness": 0.5
+         },
+         "extra_modifier": {},
+         "extra_weights": {},
+         "regional_weight": [
+            5.02,
+            3.1,
+            2.01
+         ],
+         "ideology_priority": [
+            0.19,
+            0.22,
+            0.2,
+            0.2,
+            0.22
+         ],
+         "extra_data": ""
+      },
+      {
+         "name": "NewJersey_PD_7",
+         "population": 720,
+         "seats": 0,
+         "region": "MidTown",
+         "microregion": "NewJersey_PD_7",
+         "participation_rate": 0.4560327198364008,
+         "elegibility": 0.685548,
+         "ideology_median": {
+            "Economic": 0.433,
+            "Social": 0.452,
+            "State Power": 0.476,
+            "Military": 0.459,
+            "Pony Rights": 0.637
+         },
+         "ideology_deviation": {
+            "Economic": 0.096,
+            "Social": 0.097,
+            "State Power": 0.087,
+            "Military": 0.07,
+            "Pony Rights": 0.09
+         },
+         "regional_party_ideologies": {
+            "0": [
+               0.354,
+               0.506,
+               1,
+               1,
+               0.713
+            ],
+            "1": [
+               0.187,
+               0.08,
+               0.333,
+               0.247,
+               0.99
+            ],
+            "2": [
+               0.391,
+               0.574,
+               0.445,
+               0.365,
+               0.469
+            ]
+         },
+         "party_opinions": {
+            "0": 8.342,
+            "1": 3.752,
+            "2": 1.912
+         },
+         "party_mainstream": {
+            "0": 6.203,
+            "1": 5.402,
+            "2": 2.058
+         },
+         "override_votes": "",
+         "weights": {
+            "Happiness": 0.5,
+            "Mainstreamness": 0.5
+         },
+         "extra_modifier": {},
+         "extra_weights": {},
+         "regional_weight": [
+            5.08,
+            3.13,
+            2.05
+         ],
+         "ideology_priority": [
+            0.21,
+            0.2,
+            0.21,
+            0.22,
+            0.16
+         ],
+         "extra_data": ""
+      },
+      {
+         "name": "NewJersey_PD_8",
+         "population": 1252,
+         "seats": 0,
+         "region": "Uniland",
+         "microregion": "NewJersey_PD_8",
+         "participation_rate": 0.4961612284069098,
+         "elegibility": 0.821056,
+         "ideology_median": {
+            "Economic": 0.444,
+            "Social": 0.467,
+            "State Power": 0.488,
+            "Military": 0.474,
+            "Pony Rights": 0.613
+         },
+         "ideology_deviation": {
+            "Economic": 0.097,
+            "Social": 0.099,
+            "State Power": 0.081,
+            "Military": 0.069,
+            "Pony Rights": 0.093
+         },
+         "regional_party_ideologies": {
+            "0": [
+               0.403,
+               0.484,
+               0.874,
+               1,
+               0.509
+            ],
+            "1": [
+               0.233,
+               0.079,
+               0.473,
+               0.246,
+               1
+            ],
+            "2": [
+               0.54,
+               0.463,
+               0.522,
+               0.393,
+               0.449
+            ]
+         },
+         "party_opinions": {
+            "0": 10.695,
+            "1": 4.044,
+            "2": 2.045
+         },
+         "party_mainstream": {
+            "0": 7.089,
+            "1": 4.823,
+            "2": 2.203
+         },
+         "override_votes": "",
+         "weights": {
+            "Happiness": 0.5,
+            "Mainstreamness": 0.5
+         },
+         "extra_modifier": {},
+         "extra_weights": {},
+         "regional_weight": [
+            5.19,
+            2.91,
+            2.06
+         ],
+         "ideology_priority": [
+            0.18,
+            0.22,
+            0.22,
+            0.17,
+            0.21
+         ],
+         "extra_data": ""
+      },
+      {
+         "name": "NewJersey_PD_9",
+         "population": 2316,
+         "seats": 0,
+         "region": "Uniland",
+         "microregion": "NewJersey_PD_9",
+         "participation_rate": 0.4954233409610984,
+         "elegibility": 0.767215,
+         "ideology_median": {
+            "Economic": 0.44,
+            "Social": 0.454,
+            "State Power": 0.492,
+            "Military": 0.456,
+            "Pony Rights": 0.647
+         },
+         "ideology_deviation": {
+            "Economic": 0.098,
+            "Social": 0.103,
+            "State Power": 0.094,
+            "Military": 0.085,
+            "Pony Rights": 0.094
+         },
+         "regional_party_ideologies": {
+            "0": [
+               0.29,
+               0.427,
+               1,
+               0.998,
+               0.634
+            ],
+            "1": [
+               0.221,
+               0.114,
+               0.327,
+               0.213,
+               0.77
+            ],
+            "2": [
+               0.436,
+               0.377,
+               0.597,
+               0.489,
+               0.652
+            ]
+         },
+         "party_opinions": {
+            "0": 9.8,
+            "1": 4.659,
+            "2": 2.315
+         },
+         "party_mainstream": {
+            "0": 6.907,
+            "1": 4.973,
+            "2": 1.79
+         },
+         "override_votes": "",
+         "weights": {
+            "Happiness": 0.5,
+            "Mainstreamness": 0.5
+         },
+         "extra_modifier": {},
+         "extra_weights": {},
+         "regional_weight": [
+            5.15,
+            2.96,
+            2.04
+         ],
+         "ideology_priority": [
+            0.23,
+            0.17,
+            0.2,
+            0.23,
+            0.16
+         ],
+         "extra_data": ""
+      },
+      {
+         "name": "NewJersey_PD_10",
+         "population": 2165,
+         "seats": 0,
+         "region": "Uniland",
+         "microregion": "NewJersey_PD_10",
+         "participation_rate": 0.4645413142485361,
+         "elegibility": 0.731057,
+         "ideology_median": {
+            "Economic": 0.438,
+            "Social": 0.454,
+            "State Power": 0.482,
+            "Military": 0.457,
+            "Pony Rights": 0.632
+         },
+         "ideology_deviation": {
+            "Economic": 0.097,
+            "Social": 0.099,
+            "State Power": 0.085,
+            "Military": 0.075,
+            "Pony Rights": 0.089
+         },
+         "regional_party_ideologies": {
+            "0": [
+               0.334,
+               0.43,
+               0.889,
+               1,
+               0.729
+            ],
+            "1": [
+               0.192,
+               0.094,
+               0.318,
+               0.213,
+               1
+            ],
+            "2": [
+               0.427,
+               0.585,
+               0.391,
+               0.365,
+               0.648
+            ]
+         },
+         "party_opinions": {
+            "0": 9.993,
+            "1": 3.7,
+            "2": 1.922
+         },
+         "party_mainstream": {
+            "0": 7.296,
+            "1": 5.461,
+            "2": 1.902
+         },
+         "override_votes": "",
+         "weights": {
+            "Happiness": 0.5,
+            "Mainstreamness": 0.5
+         },
+         "extra_modifier": {},
+         "extra_weights": {},
+         "regional_weight": [
+            4.93,
+            2.92,
+            1.93
+         ],
+         "ideology_priority": [
+            0.19,
+            0.2,
+            0.2,
+            0.19,
+            0.16
+         ],
+         "extra_data": ""
+      },
+      {
+         "name": "NewJersey_PD_11",
+         "population": 731,
+         "seats": 0,
+         "region": "The Military Complex",
+         "microregion": "NewJersey_PD_11",
+         "participation_rate": 0.4868913857677903,
+         "elegibility": 0.753011,
+         "ideology_median": {
+            "Economic": 0.488,
+            "Social": 0.509,
+            "State Power": 0.57,
+            "Military": 0.587,
+            "Pony Rights": 0.573
+         },
+         "ideology_deviation": {
+            "Economic": 0.088,
+            "Social": 0.088,
+            "State Power": 0.08,
+            "Military": 0.056,
+            "Pony Rights": 0.094
+         },
+         "regional_party_ideologies": {
+            "0": [
+               0.404,
+               0.373,
+               1,
+               0.929,
+               0.707
+            ],
+            "1": [
+               0.204,
+               0.119,
+               0.461,
+               0.196,
+               1
+            ],
+            "2": [
+               0.489,
+               0.528,
+               0.563,
+               0.488,
+               0.57
+            ]
+         },
+         "party_opinions": {
+            "0": 10.152,
+            "1": 4.232,
+            "2": 2.257
+         },
+         "party_mainstream": {
+            "0": 7.263,
+            "1": 5.099,
+            "2": 1.944
+         },
+         "override_votes": "",
+         "weights": {
+            "Happiness": 0.5,
+            "Mainstreamness": 0.5
+         },
+         "extra_modifier": {},
+         "extra_weights": {},
+         "regional_weight": [
+            4.99,
+            3.1,
+            1.9
+         ],
+         "ideology_priority": [
+            0.21,
+            0.24,
+            0.23,
+            0.21,
+            0.24
+         ],
+         "extra_data": ""
+      },
+      {
+         "name": "NewJersey_PD_12",
+         "population": 1255,
+         "seats": 0,
+         "region": "The Military Complex",
+         "microregion": "NewJersey_PD_12",
+         "participation_rate": 0.46808510638297873,
+         "elegibility": 0.751363,
+         "ideology_median": {
+            "Economic": 0.452,
+            "Social": 0.478,
+            "State Power": 0.503,
+            "Military": 0.502,
+            "Pony Rights": 0.604
+         },
+         "ideology_deviation": {
+            "Economic": 0.094,
+            "Social": 0.095,
+            "State Power": 0.081,
+            "Military": 0.065,
+            "Pony Rights": 0.092
+         },
+         "regional_party_ideologies": {
+            "0": [
+               0.377,
+               0.541,
+               0.809,
+               1,
+               0.48
+            ],
+            "1": [
+               0.208,
+               0.096,
+               0.35,
+               0.186,
+               1
+            ],
+            "2": [
+               0.5,
+               0.538,
+               0.61,
+               0.404,
+               0.552
+            ]
+         },
+         "party_opinions": {
+            "0": 9.946,
+            "1": 4.046,
+            "2": 2.276
+         },
+         "party_mainstream": {
+            "0": 8.024,
+            "1": 4.611,
+            "2": 2.287
+         },
+         "override_votes": "",
+         "weights": {
+            "Happiness": 0.5,
+            "Mainstreamness": 0.5
+         },
+         "extra_modifier": {},
+         "extra_weights": {},
+         "regional_weight": [
+            5.12,
+            3.05,
+            2.07
+         ],
+         "ideology_priority": [
+            0.19,
+            0.22,
+            0.17,
+            0.2,
+            0.21
+         ],
+         "extra_data": ""
+      },
+      {
+         "name": "NewJersey_PD_13",
+         "population": 2256,
+         "seats": 0,
+         "region": "The Military Complex",
+         "microregion": "NewJersey_PD_13",
+         "participation_rate": 0.46705539358600584,
+         "elegibility": 0.744209,
+         "ideology_median": {
+            "Economic": 0.482,
+            "Social": 0.509,
+            "State Power": 0.57,
+            "Military": 0.587,
+            "Pony Rights": 0.574
+         },
+         "ideology_deviation": {
+            "Economic": 0.087,
+            "Social": 0.089,
+            "State Power": 0.079,
+            "Military": 0.055,
+            "Pony Rights": 0.096
+         },
+         "regional_party_ideologies": {
+            "0": [
+               0.361,
+               0.524,
+               0.827,
+               0.948,
+               0.541
+            ],
+            "1": [
+               0.241,
+               0.117,
+               0.338,
+               0.2,
+               0.758
+            ],
+            "2": [
+               0.498,
+               0.546,
+               0.553,
+               0.483,
+               0.429
+            ]
+         },
+         "party_opinions": {
+            "0": 9.294,
+            "1": 3.92,
+            "2": 2.187
+         },
+         "party_mainstream": {
+            "0": 7.457,
+            "1": 4.541,
+            "2": 2.036
+         },
+         "override_votes": "",
+         "weights": {
+            "Happiness": 0.5,
+            "Mainstreamness": 0.5
+         },
+         "extra_modifier": {},
+         "extra_weights": {},
+         "regional_weight": [
+            5.02,
+            2.9,
+            2.07
+         ],
+         "ideology_priority": [
+            0.24,
+            0.17,
+            0.22,
+            0.22,
+            0.22
+         ],
+         "extra_data": ""
+      },
+      {
+         "name": "NewJersey_PD_14",
+         "population": 1953,
+         "seats": 0,
+         "region": "The Military Complex",
+         "microregion": "NewJersey_PD_14",
+         "participation_rate": 0.4701107011070111,
+         "elegibility": 0.712315,
+         "ideology_median": {
+            "Economic": 0.498,
+            "Social": 0.53,
+            "State Power": 0.58,
+            "Military": 0.61,
+            "Pony Rights": 0.551
+         },
+         "ideology_deviation": {
+            "Economic": 0.087,
+            "Social": 0.087,
+            "State Power": 0.076,
+            "Military": 0.05,
+            "Pony Rights": 0.099
+         },
+         "regional_party_ideologies": {
+            "0": [
+               0.365,
+               0.419,
+               0.828,
+               0.796,
+               0.557
+            ],
+            "1": [
+               0.164,
+               0.119,
+               0.404,
+               0.22,
+               0.99
+            ],
+            "2": [
+               0.419,
+               0.609,
+               0.476,
+               0.484,
+               0.451
+            ]
+         },
+         "party_opinions": {
+            "0": 9.952,
+            "1": 4.127,
+            "2": 2.061
+         },
+         "party_mainstream": {
+            "0": 6.991,
+            "1": 4.676,
+            "2": 1.965
+         },
+         "override_votes": "",
+         "weights": {
+            "Happiness": 0.5,
+            "Mainstreamness": 0.5
+         },
+         "extra_modifier": {},
+         "extra_weights": {},
+         "regional_weight": [
+            5.07,
+            2.97,
+            1.9
+         ],
+         "ideology_priority": [
+            0.18,
+            0.17,
+            0.17,
+            0.24,
+            0.17
+         ],
+         "extra_data": ""
+      }
+   ]
+}
